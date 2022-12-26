@@ -1,0 +1,682 @@
+NIM,JK,Kategori Sekolah,Usia,Program Studi,Tahun Masuk,IPs 1,IPs 2,IPs 3,IPs 4,IPs 5,SKS 1,SKS  2,SKS  3,SKS  4,SKS 5,Status Kelulusan
+0611015,L,SMK,18,Teknik Sipil (S1),2006,2.48,2.67,2.78,2.1,2.56,19,22,18,18,19,Gagal
+0811010,L,SMA,20,Teknik Sipil (S1),2008,2.68,2.33,2.83,2.59,2.9,19,19,20,20,20,Tidak Tepat Waktu
+0811015,L,SMK,33,Teknik Sipil (S1),2008,2.73,2.86,2.83,3.23,2.96,19,19,20,22,20,Tidak Tepat Waktu
+0811016,L,SMK,35,Teknik Sipil (S1),2008,3,2.57,3.11,3.05,3.13,19,19,20,22,20,Tidak Tepat Waktu
+0811038,L,SMK,20,Teknik Sipil (S1),2008,2.55,2.43,2.83,3.09,2.65,19,19,20,20,20,Tidak Tepat Waktu
+0911001,P,SMA,20,Teknik Sipil (S1),2009,3.1,2.86,2.83,2.73,2.85,19,19,20,22,14,Tidak Tepat Waktu
+0911003,P,SMA,18,Teknik Sipil (S1),2009,2.6,2.9,3.17,2.27,2.55,19,19,20,22,20,Tidak Tepat Waktu
+0911012,L,SMA,18,Teknik Sipil (S1),2009,3.55,3.19,3.2,2.45,1.96,19,19,20,22,15,Tidak Tepat Waktu
+0911013,L,SMA,18,Teknik Sipil (S1),2009,3,2.71,3,2.5,3,19,19,20,22,20,Tidak Tepat Waktu
+0911015,L,MA,19,Teknik Sipil (S1),2009,3,2.62,3.06,2.91,3.35,19,19,20,22,20,Tidak Tepat Waktu
+0911017,L,SMA,20,Teknik Sipil (S1),2009,3.3,2.95,3.22,3.23,3.25,19,19,20,22,20,Tidak Tepat Waktu
+1011001,L,SMA,18,Teknik Sipil (S1),2010,2.85,3,3.17,2.77,2.45,19,19,20,22,20,Tidak Tepat Waktu
+1011003,L,SMK,18,Teknik Sipil (S1),2010,2.45,2.71,3.17,2.59,2.5,19,19,20,22,22,Tidak Tepat Waktu
+1011009,L,SMA,19,Teknik Sipil (S1),2010,3.05,2.81,3,2.68,2.65,19,19,20,22,20,Tidak Tepat Waktu
+1011014,L,SMA,17,Teknik Sipil (S1),2010,3.15,2.81,3.17,2.64,2.9,19,19,20,22,20,Tidak Tepat Waktu
+1011017,L,SMK,18,Teknik Sipil (S1),2010,2.6,2.71,3,2.64,2.55,19,19,22,22,20,Tidak Tepat Waktu
+1111002,L,,18,Teknik Sipil (S1),2011,3.21,2.85,3.22,3.36,3.33,18,18,24,22,20,Tidak Tepat Waktu
+1111003,L,,20,Teknik Sipil (S1),2011,2.42,2.37,2.53,2.32,2.32,18,16,17,2,19,Gagal
+1111004,P,SMA,17,Teknik Sipil (S1),2011,3.23,3.05,3.22,2.86,2.52,18,18,21,22,20,Tidak Tepat Waktu
+1111006,P,SMK,19,Teknik Sipil (S1),2011,3.05,2.75,2.78,2.82,2.48,0,18,18,21,22,Tidak Tepat Waktu
+1111007,L,SMK,18,Teknik Sipil (S1),2011,3.32,3.25,3.22,2.73,2.52,18,18,21,22,20,Tidak Tepat Waktu
+1111010,L,,21,Teknik Sipil (S1),2011,2.74,2.68,3,2.64,2.3,35,19,0,15,21,Tidak Tepat Waktu
+1111015,P,SMK,20,Teknik Sipil (S1),2011,2.74,2.53,2.74,2.89,2.53,18,16,17,17,19,Gagal
+1111016,P,SMA,19,Teknik Sipil (S1),2011,3.55,3.35,3.39,3.36,3.67,18,18,21,24,20,Tepat Waktu
+1111017,P,SMA,18,Teknik Sipil (S1),2011,3.14,3.4,3.17,3.18,3.29,18,18,21,22,20,Tidak Tepat Waktu
+1111021,P,SMK,18,Teknik Sipil (S1),2011,3.63,3.65,3.56,3.82,3.81,18,18,21,22,24,Tidak Tepat Waktu
+1111023,L,SMK,27,Teknik Sipil (S1),2011,3.1,3.35,3.22,3.32,2.9,16,3,19,17,18,Tidak Tepat Waktu
+1211001,L,,20,Teknik Sipil (S1),2012,2.86,2.83,2.85,2.86,2.57,18,21,21,22,20,Tidak Tepat Waktu
+1211002,L,SMA,18,Teknik Sipil (S1),2012,3.09,2.94,2.65,2.95,3,18,21,21,19,20,Tidak Tepat Waktu
+1211003,P,SMA,18,Teknik Sipil (S1),2012,3.36,2.94,2.4,2.86,2.9,18,21,21,19,20,Tidak Tepat Waktu
+1211004,L,SMK,19,Teknik Sipil (S1),2012,3.05,3.11,2.7,3,2.71,18,21,21,22,20,Tidak Tepat Waktu
+1211005,L,SMK,19,Teknik Sipil (S1),2012,3.14,3.11,2.7,3.09,2.81,18,21,21,19,20,Tidak Tepat Waktu
+1211007,L,SMK,20,Teknik Sipil (S1),2012,3.05,3,2.7,3.36,2.81,18,21,21,19,20,Tidak Tepat Waktu
+1211008,L,SMK,37,Teknik Sipil (S1),2012,3.32,3.21,3.16,2.95,2.74,18,18,19,15,20,Tidak Tepat Waktu
+1211013,L,SMA,22,Teknik Sipil (S1),2012,3.23,3,2.65,2.73,2.9,18,21,21,19,20,Tidak Tepat Waktu
+1211015,P,SMK,28,Teknik Sipil (S1),2012,3.32,3.28,3.45,3.23,3.57,18,21,21,19,20,Tidak Tepat Waktu
+1211016,L,SMA,17,Teknik Sipil (S1),2012,3.88,3.28,3.2,3.32,3.43,18,21,21,21,20,Tidak Tepat Waktu
+1211022,L,SMK,21,Teknik Sipil (S1),2012,3.14,2.89,2.8,3.09,3,18,21,21,19,20,Tidak Tepat Waktu
+1211023,L,SMA,21,Teknik Sipil (S1),2012,2.77,3.11,2.55,2.86,2.57,18,21,21,19,20,Tidak Tepat Waktu
+1211024,L,SMK,18,Teknik Sipil (S1),2012,2.68,3.11,2.8,3,2.86,18,21,21,19,20,Tidak Tepat Waktu
+1211026,L,SMK,20,Teknik Sipil (S1),2012,2.77,3,2.7,2.73,2.9,18,21,21,20,23,Tidak Tepat Waktu
+1211028,L,SMK,18,Teknik Sipil (S1),2012,2.84,2.79,2.74,2.63,2.68,18,18,19,15,20,Tidak Tepat Waktu
+1211031,P,SMA,18,Teknik Sipil (S1),2012,3.79,3.67,3.55,3.77,3.71,18,21,21,21,20,Tidak Tepat Waktu
+1211035,P,SMK,17,Teknik Sipil (S1),2012,3.63,3.39,3.55,3.55,3.43,18,21,21,21,20,Tidak Tepat Waktu
+1211036,L,SMK,18,Teknik Sipil (S1),2012,3.18,3.11,2.95,2.73,3,18,21,21,22,20,Tidak Tepat Waktu
+1211039,L,SMK,18,Teknik Sipil (S1),2012,3.14,3.28,2.6,2.59,2.57,18,21,21,22,20,Tidak Tepat Waktu
+1311001,P,,18,Teknik Sipil (S1),2013,4,2.8,2.41,3.88,1.82,3,4,21,21,19,Tidak Tepat Waktu
+1311006,L,,23,Teknik Sipil (S1),2013,3.23,3.11,3.25,2.64,2.29,18,21,21,19,20,Tidak Tepat Waktu
+1311008,L,,18,Teknik Sipil (S1),2013,3.27,2.83,3.4,2.82,2.71,18,21,21,19,20,Tidak Tepat Waktu
+1311011,L,,18,Teknik Sipil (S1),2013,2.95,3.06,3.5,3,2.62,18,21,21,22,20,Tidak Tepat Waktu
+1311013,L,,19,Teknik Sipil (S1),2013,3.59,3.28,3.85,3.59,3.57,18,21,21,19,20,Tidak Tepat Waktu
+1311015,L,,18,Teknik Sipil (S1),2013,2.68,2.56,2.7,2.82,2.43,18,21,21,20,18,Tidak Tepat Waktu
+1311016,L,,18,Teknik Sipil (S1),2013,3.05,2.84,2.53,2.84,2.37,0,0,22,24,16,Tidak Tepat Waktu
+1311019,L,,18,Teknik Sipil (S1),2013,3.58,3.05,2.47,2.79,2.63,18,18,19,19,17,Tidak Tepat Waktu
+1311025,L,SMA,18,Teknik Sipil (S1),2013,2.95,2.79,2.26,2.74,2.37,18,18,20,19,18,Tidak Tepat Waktu
+1311033,P,,19,Teknik Sipil (S1),2013,3.05,2.94,3.1,2.82,2.48,18,21,21,19,20,Tidak Tepat Waktu
+1311035,L,,18,Teknik Sipil (S1),2013,3.73,3.28,3.65,3.27,3.38,18,21,21,22,20,Tepat Waktu
+1311036,L,,17,Teknik Sipil (S1),2013,2.79,2.58,2.42,2.95,2.26,18,18,19,18,21,Tidak Tepat Waktu
+1311038,P,,19,Teknik Sipil (S1),2013,3.64,3.22,3.7,3.73,3.67,18,21,21,19,20,Tepat Waktu
+1411001,L,,19,Teknik Sipil (S1),2014,3.79,3.63,3.63,3.68,3.11,18,19,22,19,24,Tidak Tepat Waktu
+1411002,L,,20,Teknik Sipil (S1),2014,3.58,2.89,3.11,3.11,2.53,18,18,19,17,24,Tidak Tepat Waktu
+1411003,L,,19,Teknik Sipil (S1),2014,3,3.16,3.05,2.84,2.95,18,19,20,19,20,Tidak Tepat Waktu
+1411004,L,,18,Teknik Sipil (S1),2014,2.79,2.47,2.84,2.53,3,18,18,17,15,16,Tidak Tepat Waktu
+1411005,L,,23,Teknik Sipil (S1),2014,2.91,3.06,3.05,2.82,3,18,21,21,27,20,Tepat Waktu
+1411008,L,MA,18,Teknik Sipil (S1),2014,3.64,3.22,3.15,3.36,2.9,18,21,21,21,20,Tepat Waktu
+1411009,L,,18,Teknik Sipil (S1),2014,2.89,2.89,2.74,2.47,2.47,18,18,19,13,21,Tidak Tepat Waktu
+1411011,L,,22,Teknik Sipil (S1),2014,3.47,3.63,3.47,3.16,3,18,19,22,19,22,Tidak Tepat Waktu
+1411013,P,,17,Teknik Sipil (S1),2014,3.91,3.28,3.45,3.36,3.19,18,21,24,21,23,Tepat Waktu
+1411014,L,,17,Teknik Sipil (S1),2014,3.53,3.26,3.32,3.26,2.21,18,19,19,0,11,Tidak Tepat Waktu
+1411015,L,,18,Teknik Sipil (S1),2014,3.32,2.78,3.05,3.36,3,18,21,24,21,20,Tepat Waktu
+1411016,L,,19,Teknik Sipil (S1),2014,3.21,3.37,3.21,3.16,2.68,18,19,19,19,21,Tidak Tepat Waktu
+1411017,L,,18,Teknik Sipil (S1),2014,2.53,2.47,2.33,2.24,2.37,18,18,17,13,11,Tidak Tepat Waktu
+1411028,P,,19,Teknik Sipil (S1),2014,3.36,3.11,2.95,3.18,2.9,18,21,21,21,24,Tepat Waktu
+1411029,L,,18,Teknik Sipil (S1),2014,2.53,2.58,3,2.89,2.58,18,18,19,15,21,Tidak Tepat Waktu
+1411040,L,,27,Teknik Sipil (S1),2014,3.21,3.11,2.79,2.95,2.47,18,18,19,17,19,Tidak Tepat Waktu
+1411043,L,,18,Teknik Sipil (S1),2014,3.41,3.28,3.1,2.91,3.24,18,21,24,21,23,Tepat Waktu
+1411044,P,,18,Teknik Sipil (S1),2014,3.68,3.06,3.2,3.14,2.77,18,21,24,21,26,Tepat Waktu
+1411045,P,,18,Teknik Sipil (S1),2014,4,3.78,4,3.91,3.68,18,21,21,21,27,Tepat Waktu
+1411049,L,,18,Teknik Sipil (S1),2014,3.68,3.33,3.25,3.45,3.19,18,21,21,21,24,Tepat Waktu
+1411050,L,,19,Teknik Sipil (S1),2014,3.53,3.47,3.47,3,3.11,18,19,22,19,22,Tidak Tepat Waktu
+1411055,L,SMA,19,Teknik Sipil (S1),2014,3.42,3.63,3.16,3.47,3,18,19,20,19,24,Tidak Tepat Waktu
+1411060,P,,18,Teknik Sipil (S1),2014,3.82,3.5,3.2,3.59,3.38,18,21,24,21,23,Tepat Waktu
+1411061,P,,18,Teknik Sipil (S1),2014,3.41,3.17,2.95,3.5,3.09,18,21,21,24,27,Tepat Waktu
+1411064,L,,24,Teknik Sipil (S1),2014,3.45,3.39,3.25,3.23,3.24,18,21,21,21,24,Tepat Waktu
+1411065,L,,19,Teknik Sipil (S1),2014,2.95,3.05,2.89,2.58,2.58,18,18,19,17,19,Tidak Tepat Waktu
+1411066,L,,24,Teknik Sipil (S1),2014,3.79,3.84,3.58,3.74,3.63,18,19,22,19,22,Tidak Tepat Waktu
+1411067,L,,17,Teknik Sipil (S1),2014,2.42,3.21,2.79,2.63,2.32,18,19,19,19,21,Tidak Tepat Waktu
+1411069,L,,20,Teknik Sipil (S1),2014,3.63,3.11,3.21,3.05,3.05,18,19,22,19,22,Tidak Tepat Waktu
+1411071,L,,23,Teknik Sipil (S1),2014,3.09,3,3,2.95,2.9,18,21,24,21,20,Tepat Waktu
+1511001,P,,18,Teknik Sipil (S1),2015,3.58,3.53,3.47,3.74,3.05,18,19,20,22,24,Tepat Waktu
+1511011,L,SMK,18,Teknik Sipil (S1),2015,3.26,3.11,3.11,3.21,2.68,18,19,20,22,24,Tepat Waktu
+1511012,L,,18,Teknik Sipil (S1),2015,3.47,2.74,2.68,2.68,2.53,18,19,20,21,20,Tidak Tepat Waktu
+1511017,L,SMK,19,Teknik Sipil (S1),2015,3.58,3.63,3.16,3.37,2.84,18,19,20,20,24,Tepat Waktu
+1511024,P,SMK,17,Teknik Sipil (S1),2015,3.68,3.21,3.26,3.37,3.11,19,19,19,20,24,Tidak Tepat Waktu
+1511029,P,MA,18,Teknik Sipil (S1),2015,3.89,3.79,3.47,3.68,3.37,18,19,22,23,20,Tepat Waktu
+1511031,L,SMA,18,Teknik Sipil (S1),2015,3.68,3.68,3.58,3.37,3.37,18,19,22,23,20,Tidak Tepat Waktu
+1511041,L,SMA,17,Teknik Sipil (S1),2015,3.58,3.32,3.47,3.05,3,18,19,22,23,20,Tepat Waktu
+1511043,L,SMK,18,Teknik Sipil (S1),2015,3.32,3.26,3.16,3.21,2.79,18,19,19,23,23,Tepat Waktu
+1511058,L,SMA,19,Teknik Sipil (S1),2015,3.37,3.21,3.53,3.21,2.84,19,19,19,17,24,Tepat Waktu
+1511062,P,,17,Teknik Sipil (S1),2015,3.79,3.79,3.63,3.58,3,18,19,20,22,24,Tepat Waktu
+1511063,L,,20,Teknik Sipil (S1),2015,3.47,3.11,3.16,3.11,2.37,18,19,20,21,24,Tepat Waktu
+1511068,L,SMA,18,Teknik Sipil (S1),2015,3.68,3.42,3.58,3.47,3.05,18,19,22,23,20,Tidak Tepat Waktu
+1611099,L,SMK,30,Teknik Sipil (S1),2016,2.68,2.56,2.6,2.62,2.81,11,4,0,0,0,Tepat Waktu
+1003003,L,SMK,18,Teknik Industri (S1),2010,3.42,3.53,2.83,3.19,2.6,19,20,20,21,20,Tidak Tepat Waktu
+1003007,L,MA,21,Teknik Industri (S1),2010,2.53,2.82,2.74,2.71,2.45,19,20,20,21,20,Tidak Tepat Waktu
+1003008,L,SMK,19,Teknik Industri (S1),2010,3.26,3.24,2.96,3.24,2.6,19,20,20,21,20,Tidak Tepat Waktu
+1003014,L,SMK,18,Teknik Industri (S1),2010,2.53,2.53,2.48,2.62,2.2,19,20,20,21,20,Tidak Tepat Waktu
+1003018,L,,20,Teknik Industri (S1),2010,2.32,2.59,2.57,2.52,2.7,7,4,18,19,16,Gagal
+1103003,L,SMK,18,Teknik Industri (S1),2011,2.37,2.76,2.83,2.9,2.6,19,20,20,21,20,Tidak Tepat Waktu
+1103014,L,SMA,19,Teknik Industri (S1),2011,2.74,2.35,2.61,2.43,2.6,19,20,20,21,21,Tidak Tepat Waktu
+1103015,L,SMK,18,Teknik Industri (S1),2011,3.47,3.82,3.57,3.33,3.55,19,20,22,21,20,Tepat Waktu
+1103017,L,SMA,20,Teknik Industri (S1),2011,3.84,4,3.7,3.95,3.55,19,20,24,21,18,Tepat Waktu
+1103018,P,SMK,19,Teknik Industri (S1),2011,3.11,2.65,2.7,2.38,2.55,19,20,20,21,20,Tidak Tepat Waktu
+1103023,P,SMA,18,Teknik Industri (S1),2011,3.37,3.18,2.96,3.19,3.2,19,20,20,21,20,Tepat Waktu
+1103026,L,SMK,18,Teknik Industri (S1),2011,2.63,2.59,2.61,2.38,2.7,19,20,20,22,20,Tidak Tepat Waktu
+1103027,L,SMK,21,Teknik Industri (S1),2011,3.26,3.47,3.09,3.14,2.9,19,20,22,21,20,Tidak Tepat Waktu
+1103028,P,SMK,19,Teknik Industri (S1),2011,3.05,3.18,2.96,2.9,3.05,19,20,20,21,20,Tepat Waktu
+1203001,L,SMK,18,Teknik Industri (S1),2012,2.95,3.06,2.83,3.14,3.2,19,20,20,21,20,Tepat Waktu
+1203002,L,SMK,19,Teknik Industri (S1),2012,2.95,2.88,3.04,3.1,2.95,19,20,20,21,22,Tepat Waktu
+1203003,L,SMK,17,Teknik Industri (S1),2012,2.47,2.82,2.52,3.19,3.45,19,20,20,21,20,Tidak Tepat Waktu
+1203004,L,SMK,19,Teknik Industri (S1),2012,3.11,3.18,3.04,2.29,2.7,16,13,22,24,23,Tepat Waktu
+1203005,L,SMK,17,Teknik Industri (S1),2012,2.84,3.24,2.87,3.05,2.95,19,20,20,21,22,Tidak Tepat Waktu
+1203009,P,SMA,18,Teknik Industri (S1),2012,3.89,4,3.74,3.57,3.7,19,20,24,21,20,Tepat Waktu
+1203010,L,MA,20,Teknik Industri (S1),2012,2.95,2.76,2.91,2.57,2.8,19,20,20,21,22,Tidak Tepat Waktu
+1203014,P,MA,18,Teknik Industri (S1),2012,3.32,3.47,3.48,3.33,2.9,19,20,22,21,22,Tepat Waktu
+1203015,L,SMA,17,Teknik Industri (S1),2012,3.21,3,2.7,2.81,3.2,19,20,22,21,22,Tidak Tepat Waktu
+1203016,L,SMK,19,Teknik Industri (S1),2012,2.74,2.82,2.39,2.95,2.85,19,20,20,21,20,Tepat Waktu
+1203018,L,,18,Teknik Industri (S1),2012,2.84,3.06,2.83,2.81,3.1,19,20,20,21,22,Tepat Waktu
+1203022,L,,17,Teknik Industri (S1),2012,3.26,3.24,3,2.86,3.3,19,20,22,21,22,Tepat Waktu
+1203023,P,SMK,18,Teknik Industri (S1),2012,3.32,3.53,3.48,3.05,3.2,19,20,22,21,22,Tepat Waktu
+1203024,L,SMK,18,Teknik Industri (S1),2012,2.74,2.88,2.52,2.29,2.8,19,20,20,21,20,Tidak Tepat Waktu
+1203025,P,SMK,18,Teknik Industri (S1),2012,3.11,2.88,2.91,2.52,2.9,19,20,20,21,0,Tidak Tepat Waktu
+1203026,P,SMA,20,Teknik Industri (S1),2012,3.26,3.06,2.96,2.76,3.3,19,20,20,21,22,Tidak Tepat Waktu
+1203031,L,SMK,18,Teknik Industri (S1),2012,3.11,2.88,2.96,2.71,3.05,19,20,22,21,22,Tepat Waktu
+1303002,L,,18,Teknik Industri (S1),2013,3.74,3.88,3.48,3.52,3.1,19,20,24,21,22,Tepat Waktu
+1303003,L,,20,Teknik Industri (S1),2013,3.68,3.82,3.3,2.86,2.8,19,20,24,19,22,Tepat Waktu
+1303004,L,,22,Teknik Industri (S1),2013,2.95,3.41,2.78,2.67,2.57,19,20,20,21,15,Tidak Tepat Waktu
+1303007,L,,18,Teknik Industri (S1),2013,2.68,3.53,3.52,3.14,3.38,19,20,20,18,21,Tepat Waktu
+1303009,L,,20,Teknik Industri (S1),2013,3.16,3,2.7,2.86,2.9,19,20,20,21,21,Tidak Tepat Waktu
+1303011,L,,18,Teknik Industri (S1),2013,2.95,3,3.3,2.71,2.67,19,20,20,18,18,Tidak Tepat Waktu
+1303012,P,,18,Teknik Industri (S1),2013,3,3,3.3,2.81,3.1,19,20,22,21,21,Tepat Waktu
+1303014,L,,18,Teknik Industri (S1),2013,2.89,3.41,3.39,2.81,3.25,19,18,22,21,20,Tepat Waktu
+1303015,L,,18,Teknik Industri (S1),2013,3.37,3.06,3.39,2.86,3,19,20,20,21,23,Tepat Waktu
+1303018,L,,19,Teknik Industri (S1),2013,3.63,3.59,3.39,3.1,3.25,19,20,24,21,22,Tepat Waktu
+1303019,L,,18,Teknik Industri (S1),2013,3.79,3.53,3.74,3.71,3,19,20,24,21,22,Tepat Waktu
+1303020,L,,18,Teknik Industri (S1),2013,3,3.12,3.09,2.81,2.86,19,20,20,21,21,Tepat Waktu
+1303021,P,,18,Teknik Industri (S1),2013,3.89,3.88,3.74,3.76,3.7,20,23,20,20,20,Tepat Waktu
+1303028,P,,18,Teknik Industri (S1),2013,3.05,3,3.22,2.71,2.81,19,20,20,21,22,Tepat Waktu
+1303030,L,,20,Teknik Industri (S1),2013,2.84,3.18,3,2.57,3,19,20,20,18,21,Tidak Tepat Waktu
+1303032,L,,19,Teknik Industri (S1),2013,3,3.12,3.22,2.86,2.71,19,20,20,18,21,Tepat Waktu
+1303033,P,,20,Teknik Industri (S1),2013,2.68,3.1,3.5,2.62,2.81,19,20,20,18,22,Tepat Waktu
+1303035,L,,18,Teknik Industri (S1),2013,4,3.88,3.61,3.24,3.6,19,20,24,21,23,Tepat Waktu
+1303036,L,,18,Teknik Industri (S1),2013,2.74,2.8,3.5,2.95,2.86,19,20,20,18,22,Tidak Tepat Waktu
+1303037,L,,18,Teknik Industri (S1),2013,2.84,3,3.22,2.71,2.9,19,20,20,18,20,Tepat Waktu
+1303038,P,,18,Teknik Industri (S1),2013,3.42,3.41,3.43,3.05,2.67,19,20,22,24,21,Tepat Waktu
+1303040,L,,20,Teknik Industri (S1),2013,3.21,3.41,3.22,2.81,2.95,19,20,20,21,21,Tepat Waktu
+1403002,L,,20,Teknik Industri (S1),2014,2.95,2.88,3.3,2.76,2.81,19,20,22,21,21,Tepat Waktu
+1403003,L,,18,Teknik Industri (S1),2014,3.74,3.12,3.3,3.05,3.24,19,20,22,23,23,Tepat Waktu
+1403004,L,,18,Teknik Industri (S1),2014,3.58,3.71,3.3,3.05,3.38,19,20,23,26,23,Tepat Waktu
+1403006,P,,17,Teknik Industri (S1),2014,3.84,3.29,3.65,3.29,3.43,19,20,24,23,23,Tepat Waktu
+1403007,L,SMK,19,Teknik Industri (S1),2014,3.63,3.35,3.43,3.67,4,19,20,24,23,23,Tepat Waktu
+1403008,L,,19,Teknik Industri (S1),2014,3.21,2.53,3.13,2.86,2.67,19,20,22,21,21,Tepat Waktu
+1403009,L,,18,Teknik Industri (S1),2014,3.11,2.82,3.3,2.81,3.29,19,20,22,21,21,Tepat Waktu
+1403010,L,,17,Teknik Industri (S1),2014,3.05,2.65,3.3,3.1,3.24,19,20,22,21,21,Tepat Waktu
+1403011,L,,18,Teknik Industri (S1),2014,3.74,3.76,3.26,3.52,3.52,19,20,24,23,23,Tepat Waktu
+1403012,L,SMA,17,Teknik Industri (S1),2014,3.74,3.24,3.7,3.43,3.71,19,20,23,23,24,Tepat Waktu
+1403014,L,,18,Teknik Industri (S1),2014,2.79,3.28,3,2.67,3.11,19,17,16,15,17,Tidak Tepat Waktu
+1403015,L,,18,Teknik Industri (S1),2014,2.95,2.76,3,2.86,3.33,19,20,22,21,21,Tepat Waktu
+1403016,P,,17,Teknik Industri (S1),2014,3.84,3.59,3.57,3.57,3.57,19,20,24,23,23,Tepat Waktu
+1403017,L,,20,Teknik Industri (S1),2014,3.84,3.59,3.48,3.48,3.48,19,20,24,23,23,Tepat Waktu
+1403018,L,,20,Teknik Industri (S1),2014,3.11,2.47,2.83,2.95,2.76,19,20,22,21,21,Tepat Waktu
+1403019,L,SMK,17,Teknik Industri (S1),2014,2.74,2.5,2.47,2.5,3.05,19,17,16,14,19,Tidak Tepat Waktu
+1403020,L,,18,Teknik Industri (S1),2014,3.32,2.88,3.43,2.86,2.71,19,20,23,21,24,Tepat Waktu
+1403022,L,,,Teknik Industri (S1),2014,3,3.12,3.3,2.48,3.19,19,20,22,21,21,Tepat Waktu
+1403023,L,,18,Teknik Industri (S1),2014,2.95,2.94,3.13,2.86,2.71,19,20,20,21,21,Tepat Waktu
+1403024,L,,19,Teknik Industri (S1),2014,3.16,2.88,3.13,2.76,2.81,19,20,22,21,21,Tepat Waktu
+1403026,L,,19,Teknik Industri (S1),2014,3.05,2.76,3.17,2.71,2.71,19,20,22,21,21,Tepat Waktu
+1403028,L,,18,Teknik Industri (S1),2014,3.21,2.76,3.43,3.19,2.76,19,20,22,21,23,Tepat Waktu
+1403029,L,,19,Teknik Industri (S1),2014,2.89,2.88,3.35,2.81,3,19,20,22,21,21,Tepat Waktu
+1403032,L,,18,Teknik Industri (S1),2014,3.11,3.06,3.57,3.43,3.52,19,20,22,21,23,Tepat Waktu
+1403034,P,,,Teknik Industri (S1),2014,3.16,2.82,3.39,2.81,2.71,19,20,22,21,21,Tepat Waktu
+1403036,P,,18,Teknik Industri (S1),2014,4,4,3.78,3.67,4,19,20,24,23,23,Tepat Waktu
+1403037,L,,19,Teknik Industri (S1),2014,2.74,3.12,3,2.33,2.9,19,20,22,21,21,Tepat Waktu
+1403038,L,,19,Teknik Industri (S1),2014,2.79,3.12,3.39,2.81,2.9,19,20,22,21,21,Tepat Waktu
+1403039,P,,17,Teknik Industri (S1),2014,3.84,3.47,3.43,3.05,2.95,19,20,24,23,23,Tepat Waktu
+1403042,P,,20,Teknik Industri (S1),2014,3.42,2.88,3.26,3.1,3.24,19,20,23,23,24,Tepat Waktu
+1403043,L,,20,Teknik Industri (S1),2014,3.21,3.06,3.43,3.1,3.14,19,20,22,23,23,Tepat Waktu
+1403044,L,,18,Teknik Industri (S1),2014,3.05,2.88,3.3,2.67,3.29,19,20,22,21,21,Tepat Waktu
+1403045,L,,35,Teknik Industri (S1),2014,2.95,3.29,2.83,3.48,3.3,5,0,5,2,5,Tepat Waktu
+1403046,L,SMK,19,Teknik Industri (S1),2014,3.05,3.06,3.26,3.1,3.19,19,20,22,21,23,Tepat Waktu
+1403047,L,SMK,18,Teknik Industri (S1),2014,3.16,2.61,2.63,2.33,2.84,19,17,16,16,17,Tidak Tepat Waktu
+1403048,L,,18,Teknik Industri (S1),2014,3.37,3.47,3.35,3.1,3.48,19,20,22,23,23,Tepat Waktu
+1403049,L,,18,Teknik Industri (S1),2014,3.89,3.88,3.52,3.48,3.62,19,20,24,23,23,Tepat Waktu
+1403050,P,,17,Teknik Industri (S1),2014,3.21,3.12,3.13,2.38,2.9,19,20,22,21,21,Tepat Waktu
+1403051,L,,20,Teknik Industri (S1),2014,3.63,3.59,3.48,3.1,3.43,19,20,24,23,23,Tepat Waktu
+1403052,L,,18,Teknik Industri (S1),2014,3,3.29,3.35,3.1,2.95,19,20,22,23,23,Tepat Waktu
+1403053,L,,18,Teknik Industri (S1),2014,3.11,2.88,3.3,2.57,3,19,20,22,21,21,Tepat Waktu
+1503001,P,SMK,19,Teknik Industri (S1),2015,3.21,2.67,2.95,3.06,3.42,19,19,18,16,17,Tepat Waktu
+1503002,L,SMA,18,Teknik Industri (S1),2015,3.32,3.22,2.63,3.44,2.84,19,19,16,16,17,Tepat Waktu
+1503004,L,SMK,19,Teknik Industri (S1),2015,2.89,3.17,2.84,3.39,2.84,19,19,16,16,17,Tepat Waktu
+1503005,L,,18,Teknik Industri (S1),2015,2.95,3.33,3.21,3.33,3,19,19,16,16,17,Tepat Waktu
+1503006,L,,19,Teknik Industri (S1),2015,3.11,3.28,3.05,3.22,2.89,19,19,16,16,17,Tepat Waktu
+1503007,L,SMA,19,Teknik Industri (S1),2015,3.58,3.22,3.37,3.39,3.16,19,19,18,16,19,Tepat Waktu
+1503008,L,SMA,20,Teknik Industri (S1),2015,3.11,2.89,2.58,3.11,2.68,19,19,16,16,17,Tepat Waktu
+1503011,L,SMK,18,Teknik Industri (S1),2015,3.47,3.56,3.11,3.67,3.74,19,19,16,16,19,Tepat Waktu
+1503012,L,SMK,18,Teknik Industri (S1),2015,3.11,3.06,2.74,3.44,3.37,19,19,16,16,17,Tepat Waktu
+1503014,L,SMK,19,Teknik Industri (S1),2015,3.11,2.83,2.95,3.22,3.16,19,19,18,16,17,Tepat Waktu
+1503015,L,SMK,19,Teknik Industri (S1),2015,2.74,2.61,2.84,3.22,2.84,19,19,16,16,17,Tepat Waktu
+1503016,L,SMK,18,Teknik Industri (S1),2015,3,3.28,3.11,3.06,3.21,19,19,16,16,19,Tepat Waktu
+1503017,L,SMK,19,Teknik Industri (S1),2015,3.26,3.39,3.21,3.39,3.32,19,19,16,16,19,Tepat Waktu
+1503018,L,SMK,18,Teknik Industri (S1),2015,3,3.11,3.37,3.17,3.05,19,19,16,16,19,Tepat Waktu
+1503019,L,SMA,19,Teknik Industri (S1),2015,3.53,3.72,3.95,3.83,3.68,19,19,18,18,19,Tepat Waktu
+1503020,L,SMK,18,Teknik Industri (S1),2015,3.16,2.67,2.74,3.17,3,19,19,16,16,17,Tepat Waktu
+1503021,L,SMK,21,Teknik Industri (S1),2015,3.21,3.28,3.16,3.28,3,19,19,16,16,19,Tepat Waktu
+1503022,L,SMK,21,Teknik Industri (S1),2015,3.37,3.11,3.32,3.39,3.42,19,19,16,16,19,Tepat Waktu
+1503023,P,SMA,21,Teknik Industri (S1),2015,3.32,3.47,3.3,3.25,3.57,18,21,18,16,7,Tepat Waktu
+1503024,L,SMK,19,Teknik Industri (S1),2015,3.05,2.94,2.89,2.72,2.95,19,19,16,16,17,Tepat Waktu
+1503026,L,SMK,20,Teknik Industri (S1),2015,3.16,3.11,3,3.17,3.26,19,19,16,16,17,Tepat Waktu
+1503027,L,SMK,19,Teknik Industri (S1),2015,3.32,2.78,2.95,3.17,2.95,19,19,16,16,17,Tepat Waktu
+1503028,P,SMK,18,Teknik Industri (S1),2015,3.21,3.22,3.68,3.78,3.89,19,19,18,16,17,Tepat Waktu
+1503030,L,SMA,18,Teknik Industri (S1),2015,3.47,2.94,2.95,3.06,2.79,19,19,16,16,19,Tepat Waktu
+1503031,L,SMK,18,Teknik Industri (S1),2015,3.37,2.61,2.84,3.28,2.89,19,19,16,16,17,Tepat Waktu
+1503032,P,SMK,18,Teknik Industri (S1),2015,2.95,2.89,3.11,3.5,3.21,19,19,16,16,19,Tepat Waktu
+1503033,L,SMA,17,Teknik Industri (S1),2015,3.16,2.94,3.05,3,3.32,19,19,16,16,17,Tepat Waktu
+1503034,L,SMK,19,Teknik Industri (S1),2015,3.21,3.28,3.21,3.5,3.21,19,19,16,16,17,Tepat Waktu
+1503039,L,SMK,18,Teknik Industri (S1),2015,3.21,3.39,3.05,3.06,3.26,19,19,16,16,21,Tepat Waktu
+1503040,L,SMK,19,Teknik Industri (S1),2015,3.16,3,2.84,3.17,2.89,19,19,16,16,19,Tepat Waktu
+1503042,L,SMA,18,Teknik Industri (S1),2015,3.11,3.11,2.74,3.11,3.16,19,19,16,16,17,Tepat Waktu
+1503044,L,SMA,19,Teknik Industri (S1),2015,3.42,2.89,3.42,3.22,3.58,19,19,16,18,21,Tepat Waktu
+1503047,L,SMA,18,Teknik Industri (S1),2015,2.79,3,3.05,2.94,3,19,19,16,16,17,Tepat Waktu
+1503048,L,SMK,19,Teknik Industri (S1),2015,3.05,3.17,2.89,3.06,3,19,19,16,16,17,Tepat Waktu
+1503049,L,SMK,18,Teknik Industri (S1),2015,3.32,3.17,3.21,3.22,3.42,19,19,16,16,21,Tepat Waktu
+1503050,L,SMA,18,Teknik Industri (S1),2015,3.21,2.94,2.95,3.17,3.26,19,19,16,16,17,Tepat Waktu
+1503051,P,MA,20,Teknik Industri (S1),2015,3.47,3.06,3.37,3.5,3.42,19,19,18,16,17,Tepat Waktu
+1503052,L,SMK,19,Teknik Industri (S1),2015,3.21,3.11,3.37,3.33,3.16,19,19,16,16,19,Tepat Waktu
+1503055,P,SMA,18,Teknik Industri (S1),2015,3.58,3.67,3.53,3.67,3.89,19,19,18,18,19,Tepat Waktu
+1503056,P,MA,20,Teknik Industri (S1),2015,3.68,3.56,3.95,3.72,4,19,19,18,18,19,Tepat Waktu
+1503058,L,,18,Teknik Industri (S1),2015,3.05,3.33,3.53,3.28,3.16,19,19,16,18,21,Tepat Waktu
+1503059,P,,18,Teknik Industri (S1),2015,3.37,2.94,2.95,3.44,3.26,19,19,18,16,17,Tepat Waktu
+1503060,P,,18,Teknik Industri (S1),2015,3.58,3.5,3.26,3.28,3.53,19,19,18,18,19,Tepat Waktu
+1503062,P,SMA,18,Teknik Industri (S1),2015,3.74,3.44,3.68,3.61,3.74,19,19,18,18,19,Tepat Waktu
+1503063,P,SMK,18,Teknik Industri (S1),2015,3.47,2.83,3.16,3.5,3.47,19,19,18,16,19,Tepat Waktu
+1503064,L,SMK,19,Teknik Industri (S1),2015,3.37,3,3.11,3.44,3.26,19,19,18,18,19,Tepat Waktu
+1503065,L,SMK,18,Teknik Industri (S1),2015,3.21,3.06,3.16,3.5,3.32,19,19,16,16,21,Tepat Waktu
+1503066,L,SMK,18,Teknik Industri (S1),2015,3.11,2.89,3.11,3.39,3.21,19,19,16,16,21,Tepat Waktu
+1603084,L,SMA,27,Teknik Industri (S1),2016,2.74,2.2,2.6,2.9,2.43,5,5,0,0,0,Tepat Waktu
+0806040,L,SMA,19,Teknik Informatika (S1),2008,2.86,2.65,2.12,2.5,2.93,21,20,20,18,20,Tidak Tepat Waktu
+0806056,L,SMA,19,Teknik Informatika (S1),2008,2.71,2.65,2.65,2.65,2.93,21,20,20,21,20,Tidak Tepat Waktu
+0806078,L,SMA,18,Teknik Informatika (S1),2008,2.29,2.32,2.25,2.5,2.92,21,20,20,18,19,Gagal
+0906021,L,SMK,18,Teknik Informatika (S1),2009,2.86,2.64,2.59,2.83,3.47,21,20,20,18,20,Tidak Tepat Waktu
+0906118,P,MA,19,Teknik Informatika (S1),2009,2.67,2.68,2.78,2.5,2.67,21,20,20,19,20,Tidak Tepat Waktu
+1006003,L,,19,Teknik Informatika (S1),2010,2.67,2.65,2.5,2.67,3,21,20,20,21,20,Tidak Tepat Waktu
+1006005,L,,23,Teknik Informatika (S1),2010,3.71,3.6,3.5,3.48,3.36,21,20,20,21,20,Tidak Tepat Waktu
+1006016,L,,19,Teknik Informatika (S1),2010,3.05,3.4,3,3.43,3,21,20,20,21,20,Tidak Tepat Waktu
+1006018,L,,18,Teknik Informatika (S1),2010,3,2.5,2.6,2.43,3.05,21,20,17,17,20,Tidak Tepat Waktu
+1006033,L,,18,Teknik Informatika (S1),2010,2.57,2.65,2.45,3.14,2.82,21,20,20,21,20,Tidak Tepat Waktu
+1006035,L,,21,Teknik Informatika (S1),2010,2.86,3.05,2.6,2.86,2.32,21,20,20,21,20,Tidak Tepat Waktu
+1006043,L,,18,Teknik Informatika (S1),2010,2.86,2.85,2.45,2.95,3.18,21,20,20,21,20,Tidak Tepat Waktu
+1006066,P,,18,Teknik Informatika (S1),2010,3,3.1,2.8,2.43,2.27,21,20,20,21,20,Tidak Tepat Waktu
+1006068,L,,23,Teknik Informatika (S1),2010,2.62,2.7,2.5,3,2.41,21,20,20,21,20,Tidak Tepat Waktu
+1006077,L,,17,Teknik Informatika (S1),2010,2.9,3.1,2.9,3.05,3.05,21,20,20,21,20,Tidak Tepat Waktu
+1006082,L,,19,Teknik Informatika (S1),2010,2.62,3.05,3.2,2.86,3,21,20,20,18,22,Tidak Tepat Waktu
+1006086,L,,21,Teknik Informatika (S1),2010,3,2.85,2.75,2.62,2.41,21,20,20,21,20,Tidak Tepat Waktu
+1006098,L,,19,Teknik Informatika (S1),2010,2.81,2.3,2.45,3,2.64,21,20,20,21,20,Tidak Tepat Waktu
+1006104,L,,18,Teknik Informatika (S1),2010,1.91,3,2.24,2.48,2.05,21,20,20,21,20,Tidak Tepat Waktu
+1006119,L,,24,Teknik Informatika (S1),2010,3.71,3.3,3.1,3.67,3.45,21,20,20,21,20,Tidak Tepat Waktu
+1006128,L,,19,Teknik Informatika (S1),2010,2.71,2.25,2.05,2.76,2.45,21,20,20,21,20,Tidak Tepat Waktu
+1106001,P,Paket C,19,Teknik Informatika (S1),2011,3.48,3,3.86,3.9,3.1,0,21,20,21,21,Tidak Tepat Waktu
+1106002,L,SMA,19,Teknik Informatika (S1),2011,2.48,2.74,2.95,3.05,2.9,21,20,21,21,20,Tidak Tepat Waktu
+1106006,L,SMA,,Teknik Informatika (S1),2011,2.48,2.48,3.1,3.14,2.55,21,20,21,21,20,Tidak Tepat Waktu
+1106008,P,SMA,,Teknik Informatika (S1),2011,2.67,2.65,3.62,3.67,2.8,21,20,21,21,22,Tepat Waktu
+1106009,L,SMA,19,Teknik Informatika (S1),2011,2.24,2.48,2.9,2.86,2.55,21,20,19,21,20,Tepat Waktu
+1106010,L,,18,Teknik Informatika (S1),2011,2.57,2.74,3,3.48,2.4,0,21,20,21,21,Tidak Tepat Waktu
+1106011,L,,20,Teknik Informatika (S1),2011,3.19,3.52,3.14,3.33,3.25,21,20,21,21,20,Tidak Tepat Waktu
+1106012,P,SMK,18,Teknik Informatika (S1),2011,2.71,3.38,3.52,3.48,3.36,21,20,23,23,20,Tepat Waktu
+1106013,L,,,Teknik Informatika (S1),2011,2.81,2.74,3.24,2.52,2.7,21,20,21,21,20,Tidak Tepat Waktu
+1106015,L,,18,Teknik Informatika (S1),2011,2.48,2.57,2.76,2.29,2.78,21,20,17,21,18,Tidak Tepat Waktu
+1106016,P,SMA,,Teknik Informatika (S1),2011,3.52,3.67,3.86,3.9,3.32,21,20,23,23,20,Tepat Waktu
+1106017,L,,18,Teknik Informatika (S1),2011,2.9,3.22,3.52,3.62,2.75,21,20,21,21,22,Tepat Waktu
+1106019,P,,,Teknik Informatika (S1),2011,3.24,2.96,3.05,3.33,2.25,21,20,21,21,22,Tepat Waktu
+1106020,L,,,Teknik Informatika (S1),2011,3.19,2.91,3.24,3.52,2.6,21,20,21,21,22,Tidak Tepat Waktu
+1106022,P,,22,Teknik Informatika (S1),2011,3,3.39,3.38,3.19,3.35,21,20,21,21,22,Tidak Tepat Waktu
+1106023,L,SMK,18,Teknik Informatika (S1),2011,2.57,2.91,3.24,3.1,2.85,21,20,21,21,22,Tepat Waktu
+1106024,L,,18,Teknik Informatika (S1),2011,2.52,2.78,2.9,2.95,2.45,21,20,21,21,20,Tepat Waktu
+1106025,L,,19,Teknik Informatika (S1),2011,2.38,2.52,3.14,2.81,2.1,21,20,21,21,20,Tidak Tepat Waktu
+1106028,P,SMK,19,Teknik Informatika (S1),2011,2.71,3.04,3.57,2.95,3.15,21,20,21,23,22,Tepat Waktu
+1106030,L,,18,Teknik Informatika (S1),2011,3.24,3.04,3.38,3.14,3.15,21,20,21,21,20,Tidak Tepat Waktu
+1106031,L,,18,Teknik Informatika (S1),2011,2.52,2.57,3.1,3.33,2.8,21,20,21,21,22,Tepat Waktu
+1106033,L,,18,Teknik Informatika (S1),2011,2.67,2.78,2.71,2.81,3.1,0,21,20,21,21,Tidak Tepat Waktu
+1106035,L,MA,18,Teknik Informatika (S1),2011,3.29,3.39,3.9,3.57,3.55,21,20,23,23,20,Tepat Waktu
+1106036,L,,23,Teknik Informatika (S1),2011,3.24,3.35,3.67,3.9,3.9,21,20,21,21,22,Tepat Waktu
+1106038,L,,18,Teknik Informatika (S1),2011,3.38,3.43,3.86,3.67,3.59,21,20,23,23,24,Tepat Waktu
+1106041,P,SMK,18,Teknik Informatika (S1),2011,2.86,2.91,3.62,2.9,2.7,21,20,21,21,22,Tepat Waktu
+1106042,L,SMK,20,Teknik Informatika (S1),2011,3.14,3.13,3.62,3.71,2.65,21,20,23,21,20,Tepat Waktu
+1106045,L,,,Teknik Informatika (S1),2011,3.1,2.74,3.38,3.62,3,21,20,21,21,22,Tidak Tepat Waktu
+1106047,L,,18,Teknik Informatika (S1),2011,2.57,2.43,3.05,3.62,2.1,21,20,21,21,20,Tidak Tepat Waktu
+1106049,L,,19,Teknik Informatika (S1),2011,2.71,3.09,3.67,3.57,3.25,21,20,21,23,22,Tepat Waktu
+1106050,L,,19,Teknik Informatika (S1),2011,2.67,2.7,2.71,2.14,2.55,21,20,21,21,20,Tidak Tepat Waktu
+1106051,L,,22,Teknik Informatika (S1),2011,3.62,3.48,3.81,3.81,3.3,21,20,21,21,22,Tidak Tepat Waktu
+1106052,L,,17,Teknik Informatika (S1),2011,2.52,2.3,2.67,2.71,2.3,21,20,21,21,20,Tidak Tepat Waktu
+1106053,P,,22,Teknik Informatika (S1),2011,2.57,2.87,3.24,3.05,2.65,21,20,21,21,20,Tepat Waktu
+1106054,L,,19,Teknik Informatika (S1),2011,2.14,2.3,2.86,3.14,2.75,0,21,20,21,21,Tidak Tepat Waktu
+1106055,P,SMA,18,Teknik Informatika (S1),2011,3,3.14,3.43,3.62,3.41,21,20,23,23,20,Tepat Waktu
+1106057,L,,19,Teknik Informatika (S1),2011,2.86,2.74,3.14,2.96,2.15,21,20,21,21,20,Tidak Tepat Waktu
+1106058,L,,19,Teknik Informatika (S1),2011,2.67,2.87,3.19,3.19,3.15,0,21,20,21,21,Tidak Tepat Waktu
+1106060,P,SMA,19,Teknik Informatika (S1),2011,2.95,3,3.43,3.24,2.9,21,20,21,23,22,Tepat Waktu
+1106061,P,SMA,18,Teknik Informatika (S1),2011,3.05,3.09,3.38,3.14,2.5,21,20,21,21,22,Tepat Waktu
+1106068,L,SMK,18,Teknik Informatika (S1),2011,2.62,2.78,3.24,2.95,2.9,21,20,21,21,20,Tepat Waktu
+1106071,L,,19,Teknik Informatika (S1),2011,2.95,2.91,2.81,2.81,3.3,21,20,18,21,17,Tidak Tepat Waktu
+1106072,L,,18,Teknik Informatika (S1),2011,2.76,2.13,3.24,3.1,1.65,21,20,21,21,20,Tidak Tepat Waktu
+1106075,L,,17,Teknik Informatika (S1),2011,2.81,2.7,3.33,2.67,3.06,21,20,18,21,20,Tidak Tepat Waktu
+1106077,P,,20,Teknik Informatika (S1),2011,2.57,2.61,3.05,2.86,3.25,21,20,18,21,20,Tidak Tepat Waktu
+1106078,L,,19,Teknik Informatika (S1),2011,2.71,3.22,2.76,3.33,3.2,21,20,19,21,20,Tidak Tepat Waktu
+1106080,P,SMK,17,Teknik Informatika (S1),2011,3.52,3.43,3.62,3.62,3.5,21,20,23,23,20,Tepat Waktu
+1106081,P,,18,Teknik Informatika (S1),2011,3,3.17,3.19,3.24,3.4,0,21,20,21,21,Tidak Tepat Waktu
+1106083,P,SMK,,Teknik Informatika (S1),2011,3.24,3.26,3.71,3.29,3.55,21,20,21,23,22,Tepat Waktu
+1106084,L,,18,Teknik Informatika (S1),2011,3.19,3.09,3.14,3.05,2.15,21,20,21,21,20,Tidak Tepat Waktu
+1106085,L,SMA,19,Teknik Informatika (S1),2011,2.81,2.83,2.62,2.57,2.95,21,20,19,21,0,Tidak Tepat Waktu
+1106089,P,SMK,20,Teknik Informatika (S1),2011,3.15,2.71,2.37,2.65,3.2,21,20,17,21,20,Gagal
+1106090,P,,18,Teknik Informatika (S1),2011,3.52,2.91,3.1,3.33,2.5,21,20,21,21,20,Tidak Tepat Waktu
+1106092,P,SMA,18,Teknik Informatika (S1),2011,2.86,3.05,3.48,3.52,3.09,21,20,23,23,20,Tepat Waktu
+1106093,P,,18,Teknik Informatika (S1),2011,3,3.04,2.9,2.81,3.05,21,20,21,21,20,Tepat Waktu
+1106095,L,SPMA,21,Teknik Informatika (S1),2011,2.52,2.91,3.76,3.29,2.95,21,20,21,21,22,Tepat Waktu
+1106097,L,,17,Teknik Informatika (S1),2011,2.52,2.87,2.86,2.81,2.85,21,20,21,21,20,Tidak Tepat Waktu
+1106099,L,,18,Teknik Informatika (S1),2011,3.19,2.96,3.57,3.62,3.35,21,20,21,21,22,Tepat Waktu
+1106100,P,,17,Teknik Informatika (S1),2011,2.67,2.65,3.24,2.95,2.9,21,20,21,21,22,Tepat Waktu
+1106101,L,,18,Teknik Informatika (S1),2011,2.86,3.19,3.71,3.67,3.36,0,21,20,23,23,Tidak Tepat Waktu
+1106103,L,,19,Teknik Informatika (S1),2011,2.52,2.7,2.9,2.52,2.85,21,20,21,21,18,Tidak Tepat Waktu
+1106104,L,,18,Teknik Informatika (S1),2011,2.43,2.61,2.81,3,2.3,21,20,21,21,20,Tidak Tepat Waktu
+1106105,L,,21,Teknik Informatika (S1),2011,3.33,2.91,3.1,3.38,2.5,21,20,21,21,20,Tepat Waktu
+1106108,P,,20,Teknik Informatika (S1),2011,3.9,3.52,3.95,3.9,3.6,21,20,21,21,22,Tepat Waktu
+1106112,P,,17,Teknik Informatika (S1),2011,2.33,2.61,3.1,3.43,2.95,21,20,21,21,20,Tepat Waktu
+1106113,L,,,Teknik Informatika (S1),2011,3.14,3.26,3.52,3.71,2.55,21,20,21,21,20,Tidak Tepat Waktu
+1106116,L,,19,Teknik Informatika (S1),2011,2.24,2.57,3,3.19,3.1,21,20,21,21,20,Tepat Waktu
+1106117,L,,18,Teknik Informatika (S1),2011,2.62,3,3.1,2.71,3.2,21,20,19,21,20,Tidak Tepat Waktu
+1106118,L,,19,Teknik Informatika (S1),2011,2.52,2.83,2.9,3.48,2.45,21,20,21,21,20,Tidak Tepat Waktu
+1106119,L,,19,Teknik Informatika (S1),2011,3.05,2.52,3,3.57,2.45,21,20,21,21,20,Tidak Tepat Waktu
+1106120,P,,,Teknik Informatika (S1),2011,2.62,3.09,3.48,3.33,3.55,21,20,21,23,22,Tepat Waktu
+1106121,P,,,Teknik Informatika (S1),2011,3,3.24,3.62,3.48,3.73,21,20,23,23,20,Tepat Waktu
+1106123,L,,18,Teknik Informatika (S1),2011,3.38,3.48,3.71,3.81,3.1,21,20,23,21,22,Tepat Waktu
+1106124,L,,19,Teknik Informatika (S1),2011,3.19,3.17,3.05,2.57,3.05,21,20,21,21,22,Tepat Waktu
+1106128,P,,18,Teknik Informatika (S1),2011,2.86,3.26,3.38,3.76,3.2,21,20,21,21,22,Tepat Waktu
+1106129,L,,20,Teknik Informatika (S1),2011,2.9,2.83,3.24,3.24,2.45,21,20,21,21,20,Tepat Waktu
+1206001,L,,23,Teknik Informatika (S1),2012,2.9,3.25,3.38,3.29,3.39,21,21,21,21,20,Tepat Waktu
+1206003,L,,18,Teknik Informatika (S1),2012,3.1,3.3,3.58,2.57,2.83,21,21,21,21,20,Tidak Tepat Waktu
+1206004,L,,18,Teknik Informatika (S1),2012,2.71,3.25,3.13,3.24,3.33,21,21,21,21,20,Tepat Waktu
+1206007,L,,19,Teknik Informatika (S1),2012,3.29,3.6,3.46,3.43,3.44,21,21,21,21,20,Tepat Waktu
+1206008,L,,18,Teknik Informatika (S1),2012,2.57,3,2.83,2.29,3.06,21,21,21,21,20,Tepat Waktu
+1206009,L,,18,Teknik Informatika (S1),2012,3.33,3.35,3.46,3.14,3.35,21,21,23,23,22,Tepat Waktu
+1206012,L,,18,Teknik Informatika (S1),2012,3.48,3.35,3.25,3.29,3.35,21,21,23,23,18,Tepat Waktu
+1206013,L,,18,Teknik Informatika (S1),2012,3,3.4,3.25,3.43,3.06,21,21,21,21,20,Tepat Waktu
+1206014,P,,18,Teknik Informatika (S1),2012,3.1,3.35,3.33,3.48,3.35,21,21,23,23,22,Tepat Waktu
+1206016,P,,17,Teknik Informatika (S1),2012,3.29,3.25,3.42,3.14,3.25,21,21,21,23,20,Tepat Waktu
+1206018,L,,18,Teknik Informatika (S1),2012,2.52,2.83,2.75,2.29,2.9,21,21,22,19,24,Tidak Tepat Waktu
+1206019,L,,22,Teknik Informatika (S1),2012,3.19,3.15,3.38,3.43,3.44,21,21,23,21,22,Tepat Waktu
+1206021,L,,20,Teknik Informatika (S1),2012,3.43,3.75,3.79,3.52,3.56,21,21,21,21,20,Tepat Waktu
+1206023,L,,21,Teknik Informatika (S1),2012,3.19,3.05,3.25,3.24,3.33,21,21,23,21,22,Tepat Waktu
+1206024,P,,18,Teknik Informatika (S1),2012,3.19,3.35,3.33,2.62,2.72,21,21,23,21,23,Tidak Tepat Waktu
+1206026,L,,18,Teknik Informatika (S1),2012,3.33,3.65,3.42,3.29,3.44,21,21,21,21,20,Tepat Waktu
+1206027,L,,18,Teknik Informatika (S1),2012,3.43,3.3,3.25,3.38,3.28,21,21,21,21,24,Tepat Waktu
+1206029,L,,18,Teknik Informatika (S1),2012,2.95,3,3.08,3.29,3.17,21,21,21,21,20,Tepat Waktu
+1206031,L,,17,Teknik Informatika (S1),2012,3.1,3.3,3.08,3.43,3.39,21,21,21,21,24,Tepat Waktu
+1206035,L,,19,Teknik Informatika (S1),2012,3.43,3.45,3.5,3.52,3.3,21,21,23,23,20,Tepat Waktu
+1206036,P,,18,Teknik Informatika (S1),2012,3.24,3.6,3.46,3.48,3.35,21,21,23,23,22,Tepat Waktu
+1206037,L,,19,Teknik Informatika (S1),2012,3.43,3.15,3.33,3.52,3.28,21,21,21,21,20,Tepat Waktu
+1206038,L,,18,Teknik Informatika (S1),2012,3.43,3.25,3.5,3.38,3.25,21,21,23,23,22,Tepat Waktu
+1206040,L,,24,Teknik Informatika (S1),2012,3.48,3.5,3.38,3.52,3.15,21,21,21,23,22,Tepat Waktu
+1206041,L,,19,Teknik Informatika (S1),2012,2.76,2.83,3.14,3.24,3.11,21,21,18,21,23,Tepat Waktu
+1206042,L,,17,Teknik Informatika (S1),2012,2.71,3.15,3,3.14,3.28,21,21,21,21,20,Tidak Tepat Waktu
+1206043,L,,18,Teknik Informatika (S1),2012,2.67,3.3,3,2.95,3.33,21,21,21,21,20,Tepat Waktu
+1206047,P,,17,Teknik Informatika (S1),2012,3.52,3.9,3.25,3.57,3.56,21,21,25,21,20,Tepat Waktu
+1206048,P,,22,Teknik Informatika (S1),2012,3.9,4,3.71,3.9,3.6,21,21,25,25,24,Tepat Waktu
+1206051,P,,19,Teknik Informatika (S1),2012,2.38,3.2,2.79,2.9,3.28,21,21,21,21,20,Tidak Tepat Waktu
+1206052,L,,18,Teknik Informatika (S1),2012,2.86,2.9,2.83,2.76,2.94,21,21,21,21,20,Tidak Tepat Waktu
+1206054,L,,19,Teknik Informatika (S1),2012,3.33,3.25,3.21,3.33,3.28,21,21,21,21,20,Tepat Waktu
+1206057,L,,19,Teknik Informatika (S1),2012,2.86,2.8,3.17,3.1,3.17,21,21,21,21,20,Tepat Waktu
+1206058,P,,18,Teknik Informatika (S1),2012,3.14,3.4,2.96,3.43,3.2,21,21,21,23,20,Tepat Waktu
+1206059,L,,19,Teknik Informatika (S1),2012,2.95,3.5,3.42,3.14,3.06,21,21,21,21,20,Tepat Waktu
+1206061,P,,18,Teknik Informatika (S1),2012,3.38,3.3,3.25,3.24,3.2,21,21,23,23,22,Tepat Waktu
+1206062,P,,19,Teknik Informatika (S1),2012,3.14,3.25,3.13,2.95,3.28,21,21,23,21,18,Tepat Waktu
+1206063,L,,19,Teknik Informatika (S1),2012,2.95,3.15,3.21,3.33,3.17,21,21,21,21,20,Tepat Waktu
+1206064,L,,18,Teknik Informatika (S1),2012,2.76,3.15,3.38,3.24,3.33,21,21,21,21,20,Tepat Waktu
+1206066,L,,23,Teknik Informatika (S1),2012,3.33,3.6,3.21,3.14,3.35,21,21,21,23,24,Tepat Waktu
+1206068,P,,18,Teknik Informatika (S1),2012,3.86,3.9,3.71,3.81,3.55,21,21,25,23,24,Tepat Waktu
+1206069,P,,18,Teknik Informatika (S1),2012,3.33,3.65,3.42,3.38,3.5,21,21,21,21,20,Tepat Waktu
+1206070,L,,17,Teknik Informatika (S1),2012,2.81,3.15,3.25,3.38,3.61,21,21,21,21,20,Tepat Waktu
+1206071,L,,18,Teknik Informatika (S1),2012,3.19,3.45,3.25,3.19,3.56,21,21,21,21,20,Tepat Waktu
+1206072,L,,20,Teknik Informatika (S1),2012,3.29,3.6,3.63,3.57,3.44,21,21,21,21,20,Tepat Waktu
+1206075,L,,19,Teknik Informatika (S1),2012,3.29,3.4,3.21,3.52,3.56,21,21,21,21,20,Tepat Waktu
+1206081,P,,18,Teknik Informatika (S1),2012,3.05,3.4,3.21,3.67,3.33,21,21,21,21,20,Tepat Waktu
+1206082,L,,18,Teknik Informatika (S1),2012,3.38,3,3,3.14,3.28,21,21,21,21,20,Tepat Waktu
+1206083,L,,18,Teknik Informatika (S1),2012,2.71,3.4,3.13,3.14,3.39,0,21,21,21,21,Tidak Tepat Waktu
+1206086,L,,18,Teknik Informatika (S1),2012,3.33,3.45,3.42,3.52,3.61,21,21,23,21,18,Tepat Waktu
+1206087,P,,18,Teknik Informatika (S1),2012,3.14,3.8,3.17,3.67,3.45,0,21,21,21,23,Tidak Tepat Waktu
+1206088,P,,20,Teknik Informatika (S1),2012,3.14,3.5,3.25,3.43,3.61,21,21,21,21,20,Tepat Waktu
+1206090,P,,18,Teknik Informatika (S1),2012,2.9,3.55,3.08,2.9,3.35,21,21,21,23,20,Tepat Waktu
+1206091,L,,18,Teknik Informatika (S1),2012,3.19,3.5,3.21,3.1,3.22,21,21,21,21,20,Tepat Waktu
+1206092,L,,18,Teknik Informatika (S1),2012,2.95,3.15,3.17,3.1,3.28,21,21,21,21,20,Tepat Waktu
+1206099,L,,18,Teknik Informatika (S1),2012,2.71,3.25,2.96,2.76,3.33,21,21,21,21,20,Tepat Waktu
+1206100,L,,19,Teknik Informatika (S1),2012,3.24,3.4,3.54,3.14,3.25,21,21,23,23,18,Tepat Waktu
+1206105,L,,18,Teknik Informatika (S1),2012,3,3.1,3.29,3.05,3.56,21,21,21,21,24,Tidak Tepat Waktu
+1206109,P,,20,Teknik Informatika (S1),2012,3.81,3.8,3.71,3.81,3.5,21,21,25,25,24,Tepat Waktu
+1206112,P,,18,Teknik Informatika (S1),2012,3.05,3.35,3.38,2.9,3.35,21,21,21,23,24,Tepat Waktu
+1206115,L,,19,Teknik Informatika (S1),2012,3,3.15,3.21,3.14,3.25,21,21,23,23,22,Tepat Waktu
+1206116,L,,23,Teknik Informatika (S1),2012,2.95,2.48,2.32,2.52,3.5,21,17,20,12,19,Tidak Tepat Waktu
+1206117,L,,18,Teknik Informatika (S1),2012,2.86,3.25,3.08,3,3.56,21,21,21,21,20,Tepat Waktu
+1206118,P,,18,Teknik Informatika (S1),2012,3.33,3.25,3.58,3.33,3.35,21,21,23,23,22,Tepat Waktu
+1206121,P,,18,Teknik Informatika (S1),2012,3.33,3.55,3.38,3,3.45,0,21,21,25,23,Tidak Tepat Waktu
+1206123,L,,20,Teknik Informatika (S1),2012,3.19,3.3,3.42,3.38,3.35,21,21,23,23,22,Tepat Waktu
+1306001,L,,28,Teknik Informatika (S1),2013,2.95,2.7,2.96,2.62,2.61,21,21,21,21,20,Tidak Tepat Waktu
+1306003,L,,19,Teknik Informatika (S1),2013,3,3,2.88,2.71,3.11,21,21,21,21,20,Tepat Waktu
+1306004,L,,,Teknik Informatika (S1),2013,3.82,3.91,3.14,2.27,3.05,40,49,4,7,22,Tepat Waktu
+1306005,L,,18,Teknik Informatika (S1),2013,2.86,2.9,3.38,3.29,3.72,21,21,21,21,22,Tepat Waktu
+1306010,P,,18,Teknik Informatika (S1),2013,3.81,3.35,3.29,3.29,3.72,21,21,23,23,22,Tepat Waktu
+1306011,L,,19,Teknik Informatika (S1),2013,3,3.35,3.46,3.19,3.06,21,21,21,21,20,Tepat Waktu
+1306012,L,,18,Teknik Informatika (S1),2013,3.14,2.7,3.13,3.14,3.17,21,21,21,21,22,Tepat Waktu
+1306013,L,,18,Teknik Informatika (S1),2013,3,2.75,3.04,2.86,3.06,21,21,21,21,20,Tepat Waktu
+1306014,L,,21,Teknik Informatika (S1),2013,2.9,2.95,3.04,3,3.06,21,21,21,21,20,Tepat Waktu
+1306015,P,,18,Teknik Informatika (S1),2013,3.33,2.95,2.88,3,3.22,21,21,21,21,24,Tepat Waktu
+1306016,L,,18,Teknik Informatika (S1),2013,2.9,2.7,3.17,3.19,3.11,21,21,21,21,22,Tepat Waktu
+1306017,P,,17,Teknik Informatika (S1),2013,3.29,2.9,2.92,3,3.28,21,21,21,21,20,Tepat Waktu
+1306018,P,,18,Teknik Informatika (S1),2013,3.57,3.2,3.5,3.1,3.39,21,21,21,23,24,Tepat Waktu
+1306020,L,,18,Teknik Informatika (S1),2013,3.05,2.85,2.79,2.9,2.94,21,21,21,21,20,Tepat Waktu
+1306022,L,,18,Teknik Informatika (S1),2013,2.9,2.9,3.38,3.33,3.5,21,21,21,21,22,Tepat Waktu
+1306024,L,,18,Teknik Informatika (S1),2013,3.38,2.6,3.08,2.76,3.33,21,21,21,21,24,Tepat Waktu
+1306027,L,,18,Teknik Informatika (S1),2013,3.19,3,2.92,3,3.06,21,21,23,23,20,Tepat Waktu
+1306028,L,,18,Teknik Informatika (S1),2013,2.86,2.85,3.08,2.9,3.17,21,21,21,21,24,Tepat Waktu
+1306029,L,,20,Teknik Informatika (S1),2013,2.81,3.2,3.04,3.1,2.56,21,21,21,21,20,Tepat Waktu
+1306030,L,,19,Teknik Informatika (S1),2013,3.19,3.1,2.83,2.71,2.72,21,21,21,21,20,Tepat Waktu
+1306031,L,SMK,20,Teknik Informatika (S1),2013,3.33,2.95,3.08,3,3.06,21,21,21,21,20,Tepat Waktu
+1306035,P,,19,Teknik Informatika (S1),2013,2.9,2.7,2.88,2.86,3.11,21,21,21,21,24,Tepat Waktu
+1306037,L,,,Teknik Informatika (S1),2013,2.9,3.04,2.68,1.82,3,33,47,8,9,22,Tepat Waktu
+1306038,L,,18,Teknik Informatika (S1),2013,3.24,2.9,3.04,2.81,3.11,21,21,21,21,24,Tepat Waktu
+1306041,P,,19,Teknik Informatika (S1),2013,3,2.9,3.13,2.86,3.33,21,21,21,21,24,Tepat Waktu
+1306042,L,,20,Teknik Informatika (S1),2013,2.9,3.05,3.17,3.24,2.83,21,21,21,21,20,Tepat Waktu
+1306043,L,,18,Teknik Informatika (S1),2013,3.86,3.3,3.58,3.38,3.67,21,21,21,23,20,Tidak Tepat Waktu
+1306044,P,,20,Teknik Informatika (S1),2013,2.95,3.05,3.04,2.86,3.28,21,21,21,21,24,Tepat Waktu
+1306045,P,,18,Teknik Informatika (S1),2013,2.86,3.05,3.21,3.38,3.44,21,21,21,21,24,Tepat Waktu
+1306046,L,,40,Teknik Informatika (S1),2013,3.71,3.3,3.63,3.43,3.39,17,21,21,12,20,Tepat Waktu
+1306048,L,,17,Teknik Informatika (S1),2013,3,3.05,2.88,2.95,3.06,21,21,21,21,20,Tidak Tepat Waktu
+1306049,L,MA,18,Teknik Informatika (S1),2013,3,2.75,2.67,2.62,3.22,21,21,21,21,20,Tepat Waktu
+1306050,L,,17,Teknik Informatika (S1),2013,3.05,2.95,3,2.9,3.28,21,21,21,21,20,Tepat Waktu
+1306051,P,,17,Teknik Informatika (S1),2013,3.05,3,2.92,3.1,3,21,21,21,21,20,Tepat Waktu
+1306052,L,,18,Teknik Informatika (S1),2013,3.14,3,3.33,3.29,3.67,21,21,23,23,22,Tepat Waktu
+1306053,P,,20,Teknik Informatika (S1),2013,3.62,3.2,3.38,3.33,3.28,21,21,23,23,22,Tepat Waktu
+1306056,P,,21,Teknik Informatika (S1),2013,3.64,3.43,3.45,3.33,3.17,38,32,6,20,22,Tepat Waktu
+1306057,P,,23,Teknik Informatika (S1),2013,3.33,3.3,3.54,3.52,3.56,21,21,21,21,20,Tepat Waktu
+1306058,L,,18,Teknik Informatika (S1),2013,2.76,2.8,2.71,2.86,3.11,21,21,21,21,20,Tepat Waktu
+1306059,L,,18,Teknik Informatika (S1),2013,3.19,2.85,3.08,2.71,2.83,21,21,21,21,20,Tidak Tepat Waktu
+1306063,L,,19,Teknik Informatika (S1),2013,2.86,2.7,2.92,2.71,3,21,21,21,21,20,Tepat Waktu
+1306064,L,SMK,17,Teknik Informatika (S1),2013,3.86,3.25,3.75,3.57,3.5,21,21,21,21,20,Tepat Waktu
+1306065,P,,19,Teknik Informatika (S1),2013,3.86,3.05,3.63,3.81,3.39,21,21,21,21,20,Tepat Waktu
+1306066,P,,18,Teknik Informatika (S1),2013,3.9,3.5,3.79,3.76,3.33,21,21,25,23,24,Tepat Waktu
+1306067,L,,19,Teknik Informatika (S1),2013,2.86,2.65,2.92,3,3,21,21,21,21,20,Tepat Waktu
+1306068,L,,19,Teknik Informatika (S1),2013,3,3.05,3.04,3,3.11,21,21,21,21,20,Tepat Waktu
+1306069,L,,18,Teknik Informatika (S1),2013,3.05,3.3,3.38,3.14,3.5,21,21,21,23,24,Tepat Waktu
+1306070,L,,20,Teknik Informatika (S1),2013,3.48,2.95,3.63,3.24,3.5,21,21,21,21,24,Tepat Waktu
+1306071,P,,19,Teknik Informatika (S1),2013,3.05,3.05,2.96,3,3,21,21,21,21,24,Tepat Waktu
+1306072,L,,20,Teknik Informatika (S1),2013,3,2.95,3.13,3.05,3.11,21,21,21,21,20,Tepat Waktu
+1306074,L,,19,Teknik Informatika (S1),2013,3.29,3,2.83,3.43,3,21,21,21,21,24,Tepat Waktu
+1306075,P,,20,Teknik Informatika (S1),2013,3.19,3.45,3.71,3.14,3.61,21,21,21,23,24,Tepat Waktu
+1306076,P,,19,Teknik Informatika (S1),2013,3.24,3.05,3.17,2.67,3.39,21,21,21,21,24,Tepat Waktu
+1306079,L,,20,Teknik Informatika (S1),2013,2.81,2.8,2.54,2.76,2.67,21,21,21,21,20,Tepat Waktu
+1306080,L,,23,Teknik Informatika (S1),2013,3,3.11,2.58,2.86,2.82,51,46,23,22,10,Tepat Waktu
+1306082,L,,19,Teknik Informatika (S1),2013,2.67,2.6,3.29,2.76,3.28,21,21,21,20,20,Tepat Waktu
+1306084,L,,19,Teknik Informatika (S1),2013,3.38,3.35,3.25,3.05,3.39,21,21,21,21,20,Tepat Waktu
+1306089,L,SMK,18,Teknik Informatika (S1),2013,3.05,3.05,2.96,3.14,3.11,21,21,21,21,24,Tepat Waktu
+1306090,L,,18,Teknik Informatika (S1),2013,3.38,3,3.29,2.95,2.89,21,21,21,21,22,Tepat Waktu
+1306093,L,,18,Teknik Informatika (S1),2013,3.43,2.9,2.92,2.71,3.17,21,21,21,21,20,Tepat Waktu
+1306094,L,,20,Teknik Informatika (S1),2013,2.62,2.95,2.96,2.71,3.17,21,21,21,21,20,Tepat Waktu
+1306097,L,,19,Teknik Informatika (S1),2013,3.14,3.2,3.58,2.81,3.56,21,21,21,23,24,Tidak Tepat Waktu
+1306098,P,,18,Teknik Informatika (S1),2013,3.2,3,3.16,2.95,3.45,24,22,22,21,31,Tidak Tepat Waktu
+1306099,P,,18,Teknik Informatika (S1),2013,3,3.2,3.25,3,3.39,21,21,21,21,24,Tepat Waktu
+1306100,L,,18,Teknik Informatika (S1),2013,3.05,3.15,3.29,3,3.61,21,21,21,21,24,Tepat Waktu
+1306101,P,,18,Teknik Informatika (S1),2013,3.38,3.5,3.42,3.38,3.67,21,21,21,23,24,Tepat Waktu
+1306103,P,,19,Teknik Informatika (S1),2013,3.43,3.05,3.25,2.71,3.11,21,21,21,21,20,Tepat Waktu
+1306105,P,,18,Teknik Informatika (S1),2013,3,3,3,2.71,3.33,21,21,21,21,22,Tepat Waktu
+1306106,P,,18,Teknik Informatika (S1),2013,3.24,3.3,3.29,3.19,3.61,21,21,21,23,24,Tepat Waktu
+1306107,L,,18,Teknik Informatika (S1),2013,2.86,3.1,3.08,3.05,2.83,21,21,21,21,20,Tepat Waktu
+1306108,L,,22,Teknik Informatika (S1),2013,3.29,2.9,2.63,2.52,3,21,21,21,21,20,Tepat Waktu
+1306109,L,SMA,20,Teknik Informatika (S1),2013,3.71,3.45,3.5,3.43,3.22,21,21,21,21,20,Tepat Waktu
+1306110,P,,21,Teknik Informatika (S1),2013,3.43,3.05,3.42,3.14,3.28,21,21,23,23,24,Tepat Waktu
+1306112,L,,17,Teknik Informatika (S1),2013,3.19,3.1,3.54,3.05,3.61,21,21,21,23,24,Tepat Waktu
+1306114,L,,18,Teknik Informatika (S1),2013,2.9,2.6,3.08,2.48,3.33,21,21,21,21,20,Tepat Waktu
+1306115,L,,18,Teknik Informatika (S1),2013,3.1,3.1,2.88,2.76,3.06,21,21,21,21,20,Tepat Waktu
+1306116,L,,18,Teknik Informatika (S1),2013,3.19,3.1,3.29,3.1,3.72,21,21,21,23,24,Tepat Waktu
+1306118,P,,18,Teknik Informatika (S1),2013,3,2.8,3.04,3.05,2.83,21,21,21,21,24,Tepat Waktu
+1306122,L,,18,Teknik Informatika (S1),2013,2.95,2.8,3.25,3,3.28,21,21,21,21,24,Tepat Waktu
+1306124,L,,18,Teknik Informatika (S1),2013,2.76,3.05,3.25,3.05,3.61,21,21,21,21,22,Tepat Waktu
+1306125,L,,19,Teknik Informatika (S1),2013,3.29,2.75,3.13,2.76,3.33,21,21,21,21,24,Tepat Waktu
+1306126,L,,18,Teknik Informatika (S1),2013,3,3.05,3.08,2.86,3,21,21,21,21,22,Tepat Waktu
+1306129,P,,18,Teknik Informatika (S1),2013,3.38,2.8,3.13,2.95,3.56,21,21,23,23,22,Tepat Waktu
+1306130,P,,17,Teknik Informatika (S1),2013,3.29,2.78,3.14,2.48,3.28,21,21,23,21,22,Tepat Waktu
+1306132,L,,18,Teknik Informatika (S1),2013,3.67,3.55,3.71,3.67,3.83,21,21,21,23,22,Tepat Waktu
+1306134,P,,18,Teknik Informatika (S1),2013,3.19,2.95,3.08,2.86,3.5,21,21,21,23,24,Tepat Waktu
+1306136,L,,19,Teknik Informatika (S1),2013,2.76,2.72,2.5,2.57,3,21,21,19,18,18,Tepat Waktu
+1306137,L,,19,Teknik Informatika (S1),2013,3.52,3.55,3.13,3.38,3.44,21,21,23,23,22,Tepat Waktu
+1306138,P,,18,Teknik Informatika (S1),2013,3.33,3,3.21,3.24,3.22,21,21,23,23,22,Tepat Waktu
+1306140,L,,19,Teknik Informatika (S1),2013,3,2.7,2.92,3.1,3.11,21,21,21,21,20,Tepat Waktu
+1306141,L,,19,Teknik Informatika (S1),2013,3.29,3.05,3.17,3.52,3.28,21,21,21,21,20,Tepat Waktu
+1306142,P,,,Teknik Informatika (S1),2013,3.71,3.43,3.43,3.48,3.42,34,46,9,9,22,Tepat Waktu
+1406003,L,,19,Teknik Informatika (S1),2014,2.71,3.05,3,3.33,3.15,21,21,21,21,22,Tepat Waktu
+1406004,L,,18,Teknik Informatika (S1),2014,3.1,2.76,3.05,3,3.3,24,22,22,21,26,Tidak Tepat Waktu
+1406006,P,,18,Teknik Informatika (S1),2014,3.15,2.94,3.05,3.4,3.15,24,22,22,23,26,Tidak Tepat Waktu
+1406008,L,,20,Teknik Informatika (S1),2014,2.71,2.95,3.05,3.19,3.25,21,21,21,21,20,Tepat Waktu
+1406012,P,,18,Teknik Informatika (S1),2014,3.52,4,3.67,3.67,3.85,21,21,23,24,22,Tepat Waktu
+1406013,L,,22,Teknik Informatika (S1),2014,3,3.38,3.24,3.29,3.65,21,21,23,21,22,Tepat Waktu
+1406016,L,,17,Teknik Informatika (S1),2014,2.8,2.82,3,3.15,2.95,24,22,22,21,26,Tidak Tepat Waktu
+1406017,L,SMK,17,Teknik Informatika (S1),2014,3.25,3,3,3.1,3.3,24,22,25,24,29,Tidak Tepat Waktu
+1406018,P,SMA,19,Teknik Informatika (S1),2014,3.1,3.09,2.86,3.05,3,21,21,23,24,20,Tepat Waktu
+1406021,L,,19,Teknik Informatika (S1),2014,2.8,2.82,2.68,3,3.15,24,22,22,21,26,Tidak Tepat Waktu
+1406022,L,,22,Teknik Informatika (S1),2014,3.05,3.22,3.19,3.19,3.5,21,21,23,21,22,Tepat Waktu
+1406023,P,,18,Teknik Informatika (S1),2014,3.43,3.29,3.43,3.29,3.4,21,21,23,24,22,Tepat Waktu
+1406024,L,,29,Teknik Informatika (S1),2014,3.05,3.09,3.33,3.14,3.17,21,23,10,17,6,Tepat Waktu
+1406025,L,,19,Teknik Informatika (S1),2014,3.3,3.06,3.05,3.1,3.1,24,22,25,23,28,Tidak Tepat Waktu
+1406028,L,,20,Teknik Informatika (S1),2014,3.1,3.26,3.14,3.29,3.5,21,21,23,24,22,Tepat Waktu
+1406029,P,,18,Teknik Informatika (S1),2014,3.5,3,3.68,3.6,3.65,24,22,25,23,28,Tidak Tepat Waktu
+1406030,L,,19,Teknik Informatika (S1),2014,2.75,2.65,3.16,3.4,3.15,24,22,18,21,26,Tidak Tepat Waktu
+1406031,L,,17,Teknik Informatika (S1),2014,3,2.71,3.37,3.1,3.05,24,22,22,21,26,Tidak Tepat Waktu
+1406032,P,,18,Teknik Informatika (S1),2014,3.45,3.24,3.37,3.55,3.52,24,22,25,24,28,Tidak Tepat Waktu
+1406033,P,,19,Teknik Informatika (S1),2014,3.4,3,3.21,3.65,3.5,24,22,25,24,25,Tidak Tepat Waktu
+1406035,L,,19,Teknik Informatika (S1),2014,3.1,2.65,3.11,3.3,2.9,24,22,22,21,26,Tidak Tepat Waktu
+1406036,P,,19,Teknik Informatika (S1),2014,3.14,3.09,2.9,3.38,3.28,21,21,23,24,22,Tepat Waktu
+1406039,L,,18,Teknik Informatika (S1),2014,2.95,2.76,2.79,3,3.15,24,22,22,21,26,Tidak Tepat Waktu
+1406044,L,,19,Teknik Informatika (S1),2014,2.95,2.82,3.53,3.55,3.5,24,22,22,23,29,Tidak Tepat Waktu
+1406046,L,,18,Teknik Informatika (S1),2014,2.8,2.53,2.79,3.25,3.45,24,22,18,21,25,Tidak Tepat Waktu
+1406048,L,,18,Teknik Informatika (S1),2014,2.6,2.82,2.63,2.95,2.75,24,22,22,21,26,Tidak Tepat Waktu
+1406054,L,SMK,18,Teknik Informatika (S1),2014,3.5,2.88,3,3.2,3.55,24,22,22,0,26,Tidak Tepat Waktu
+1406055,L,,18,Teknik Informatika (S1),2014,2.6,2.59,2.47,2.95,2.9,24,22,22,20,26,Tidak Tepat Waktu
+1406057,L,,20,Teknik Informatika (S1),2014,3.25,3.06,2.58,3.6,3.2,24,22,22,21,26,Tidak Tepat Waktu
+1406058,L,,27,Teknik Informatika (S1),2014,2.9,3.18,2.58,2.95,3.1,24,22,22,21,26,Tidak Tepat Waktu
+1406061,L,,18,Teknik Informatika (S1),2014,2.85,2.59,2.79,2.85,3,24,22,22,21,26,Tidak Tepat Waktu
+1406062,P,,18,Teknik Informatika (S1),2014,3.85,3.35,3.68,3.8,3.3,24,22,25,24,25,Tidak Tepat Waktu
+1406063,L,,17,Teknik Informatika (S1),2014,2.5,2.76,2.42,3.05,2.9,24,22,22,21,26,Tidak Tepat Waktu
+1406065,P,,18,Teknik Informatika (S1),2014,3.45,3.65,3.58,3.65,3.75,24,22,25,24,28,Tidak Tepat Waktu
+1406068,P,,18,Teknik Informatika (S1),2014,3.5,3.53,3.68,3.8,3.25,24,22,25,30,28,Tidak Tepat Waktu
+1406069,L,,27,Teknik Informatika (S1),2014,2.81,2.91,3.43,3.14,3,20,23,10,19,6,Tepat Waktu
+1406074,L,,19,Teknik Informatika (S1),2014,2.75,2.59,2.84,2.95,3.1,24,22,16,20,25,Tidak Tepat Waktu
+1406075,L,,21,Teknik Informatika (S1),2014,3.2,3.06,3,2.9,3.04,24,22,18,20,21,Tidak Tepat Waktu
+1406078,L,,18,Teknik Informatika (S1),2014,3.15,3.12,3.26,3.1,3.29,24,22,22,21,26,Tidak Tepat Waktu
+1406081,L,,19,Teknik Informatika (S1),2014,3.19,3.13,2.95,2.95,2.89,21,21,23,24,23,Tepat Waktu
+1406083,L,,18,Teknik Informatika (S1),2014,3.43,3.43,3.52,3.43,3.6,21,21,24,23,23,Tepat Waktu
+1406085,L,,18,Teknik Informatika (S1),2014,2.8,2.76,2.74,2.7,2.75,24,22,22,21,24,Tidak Tepat Waktu
+1406086,L,,24,Teknik Informatika (S1),2014,3.1,3.18,3.16,3.25,3.55,24,22,22,21,26,Tidak Tepat Waktu
+1406089,L,,18,Teknik Informatika (S1),2014,3,2.71,2.89,3.15,3,24,22,22,21,26,Tidak Tepat Waktu
+1406090,P,,19,Teknik Informatika (S1),2014,3.62,3.19,3.14,3.14,3.55,21,21,23,24,22,Tepat Waktu
+1406092,P,,22,Teknik Informatika (S1),2014,3.43,3.96,3.62,3.48,3.39,24,24,9,17,8,Tepat Waktu
+1406093,P,,19,Teknik Informatika (S1),2014,3.4,3.29,3.26,3.35,3.45,24,22,25,24,25,Tidak Tepat Waktu
+1406095,P,SMK,19,Teknik Informatika (S1),2014,3.35,3.29,3.79,3.35,3.45,24,22,24,30,29,Tidak Tepat Waktu
+1406096,L,,19,Teknik Informatika (S1),2014,3.45,2.94,3.42,3.75,3.75,24,22,22,21,26,Tidak Tepat Waktu
+1406098,L,SMA,20,Teknik Informatika (S1),2014,3.1,2.86,3.33,3.29,3.15,21,21,23,21,20,Tepat Waktu
+1406101,L,SMK,18,Teknik Informatika (S1),2014,2.86,2.86,2.52,2.9,3.05,21,21,21,21,20,Tepat Waktu
+1406102,L,,25,Teknik Informatika (S1),2014,3.4,2.94,2.95,2.65,3.05,24,22,22,21,26,Tidak Tepat Waktu
+1406103,L,,18,Teknik Informatika (S1),2014,2.55,2.88,2.95,3.15,3.2,24,22,22,21,26,Tidak Tepat Waktu
+1406105,L,SMK,18,Teknik Informatika (S1),2014,2.81,2.86,2.9,3.38,3.15,21,21,21,21,20,Tepat Waktu
+1406106,L,,,Teknik Informatika (S1),2014,2.95,2.94,3.05,3.2,2.95,24,22,22,21,26,Tidak Tepat Waktu
+1406107,L,,19,Teknik Informatika (S1),2014,3.29,3.1,3.33,3.57,3.55,21,21,23,28,22,Tepat Waktu
+1406108,L,,18,Teknik Informatika (S1),2014,3.1,3,3.1,3.76,3.6,21,21,24,24,23,Tepat Waktu
+1406109,P,,18,Teknik Informatika (S1),2014,3.57,3.74,3.76,3.62,4,21,21,23,28,22,Tepat Waktu
+1406111,L,,18,Teknik Informatika (S1),2014,2.6,2.76,2.63,2.95,2.8,24,22,22,20,26,Tidak Tepat Waktu
+1406113,L,,19,Teknik Informatika (S1),2014,3,2.88,3.11,3.65,3.45,24,22,22,21,29,Tidak Tepat Waktu
+1406115,L,SMA,18,Teknik Informatika (S1),2014,3.25,2.82,2.95,3.25,3.35,24,22,25,25,25,Tidak Tepat Waktu
+1406116,P,,19,Teknik Informatika (S1),2014,3.95,3.71,3.68,3.85,3.8,24,22,25,23,28,Tidak Tepat Waktu
+1406117,L,SMK,18,Teknik Informatika (S1),2014,3,2.88,3.21,3.5,3.15,24,22,22,21,28,Tidak Tepat Waktu
+1406118,L,,22,Teknik Informatika (S1),2014,3,3.05,2.95,2.9,3.4,21,21,21,21,20,Tepat Waktu
+1406120,L,,26,Teknik Informatika (S1),2014,3.76,3.7,3.1,3.57,3.17,22,23,11,6,0,Tepat Waktu
+1406122,P,,19,Teknik Informatika (S1),2014,3.05,3.33,3.1,3.1,3.55,20,21,18,21,18,Tepat Waktu
+1406123,L,,18,Teknik Informatika (S1),2014,3.05,3.43,3,3.05,3.5,21,21,24,23,23,Tepat Waktu
+1406126,L,SMK,24,Teknik Informatika (S1),2014,3.1,3.06,3.05,3.55,3.4,24,22,22,21,26,Tidak Tepat Waktu
+1406127,L,,20,Teknik Informatika (S1),2014,2.71,2.81,3.1,3.19,3.35,21,21,21,21,20,Tepat Waktu
+1406129,P,MA,18,Teknik Informatika (S1),2014,3.15,3.24,2.89,3.2,3.25,24,22,25,24,26,Tidak Tepat Waktu
+1406130,L,,19,Teknik Informatika (S1),2014,3.65,3.59,3.42,3.3,3.65,24,22,25,23,28,Tidak Tepat Waktu
+1406132,L,,18,Teknik Informatika (S1),2014,2.75,2.88,3.26,2.7,3.4,24,22,21,21,26,Tidak Tepat Waktu
+1406133,L,SMA,18,Teknik Informatika (S1),2014,3.3,2.76,3.37,3.5,3.55,24,22,25,23,28,Tidak Tepat Waktu
+1506002,P,,18,Teknik Informatika (S1),2015,3.25,2.76,2.63,3.35,3.6,24,22,22,22,29,Tepat Waktu
+1506004,L,,19,Teknik Informatika (S1),2015,3.35,3.47,3.21,3.65,3.45,24,22,22,22,26,Tepat Waktu
+1506005,L,,18,Teknik Informatika (S1),2015,3.45,3.41,2.95,3.4,3.6,24,22,22,22,26,Tepat Waktu
+1506006,L,SMK,19,Teknik Informatika (S1),2015,3.3,3.24,2.95,3.25,3.5,24,22,22,22,26,Tepat Waktu
+1506007,P,,19,Teknik Informatika (S1),2015,3.7,3.41,3.05,3.55,3.6,24,23,25,25,25,Tepat Waktu
+1506008,L,,19,Teknik Informatika (S1),2015,3.25,3.29,2.53,3.45,3.43,24,22,25,22,23,Tepat Waktu
+1506009,L,SMK,20,Teknik Informatika (S1),2015,3,3.06,2.79,3.15,3.3,24,22,22,22,26,Tepat Waktu
+1506012,L,SMK,18,Teknik Informatika (S1),2015,3.35,3,2.89,3.55,3.61,24,22,22,22,29,Tepat Waktu
+1506014,L,,18,Teknik Informatika (S1),2015,3.7,3.76,3.11,3.4,3.5,24,22,22,22,26,Tepat Waktu
+1506015,L,,20,Teknik Informatika (S1),2015,3.3,2.88,2.79,3.4,3.2,24,22,22,22,26,Tepat Waktu
+1506017,L,MA,18,Teknik Informatika (S1),2015,3,2.65,2.63,3.55,3.65,24,22,22,22,26,Tepat Waktu
+1506018,L,SMK,19,Teknik Informatika (S1),2015,3.15,3.18,3.53,3.3,3.9,24,22,25,24,23,Tepat Waktu
+1506020,L,MA,18,Teknik Informatika (S1),2015,3.6,3.88,3.11,3.75,3.8,24,23,25,25,25,Tepat Waktu
+1506021,L,SMA,19,Teknik Informatika (S1),2015,3.3,2.82,3.32,3.4,3.7,24,22,22,22,26,Tepat Waktu
+1506023,P,SMA,18,Teknik Informatika (S1),2015,3.55,3.59,3.05,3.5,3.78,24,22,25,22,25,Tepat Waktu
+1506024,L,SMK,18,Teknik Informatika (S1),2015,3.35,3.35,3.42,3.35,3.5,24,22,22,22,29,Tepat Waktu
+1506026,L,SMK,19,Teknik Informatika (S1),2015,3.15,2.76,3,3.15,3.3,24,22,22,22,26,Tepat Waktu
+1506027,L,SMK,19,Teknik Informatika (S1),2015,3.15,3.24,2.89,2.85,3.6,24,22,22,24,26,Tepat Waktu
+1506028,L,SMA,18,Teknik Informatika (S1),2015,3.45,3.47,2.89,3.45,3.6,24,22,25,22,25,Tepat Waktu
+1506030,P,SMK,17,Teknik Informatika (S1),2015,3.7,3.29,3.37,3.5,3.65,24,22,24,24,27,Tepat Waktu
+1506031,P,SMK,18,Teknik Informatika (S1),2015,3.85,3.82,3.53,3.75,3.95,24,22,24,24,27,Tepat Waktu
+1506033,L,SMA,18,Teknik Informatika (S1),2015,3.15,2.71,2.63,3.4,2.8,24,23,22,21,26,Tepat Waktu
+1506034,L,SMK,28,Teknik Informatika (S1),2015,3.4,3.41,3.68,3.6,3.95,24,22,22,22,26,Tepat Waktu
+1506035,L,SMK,18,Teknik Informatika (S1),2015,3.3,3.06,2.79,3.35,3.6,24,22,25,22,25,Tepat Waktu
+1506038,P,SMK,18,Teknik Informatika (S1),2015,3.4,3.71,3.05,3.75,3.65,24,23,25,25,25,Tepat Waktu
+1506039,L,SMK,19,Teknik Informatika (S1),2015,3.8,3.53,3.68,3.75,3.65,24,23,22,25,29,Tepat Waktu
+1506041,L,SMA,22,Teknik Informatika (S1),2015,2.86,2.91,3.14,3.19,3.78,24,27,24,16,0,Tepat Waktu
+1506042,L,SMA,21,Teknik Informatika (S1),2015,3.55,3.18,3.16,3.25,3.5,24,22,22,22,32,Tepat Waktu
+1506044,P,MA,19,Teknik Informatika (S1),2015,3.45,3.18,3.11,3.3,3.5,24,22,24,24,27,Tepat Waktu
+1506045,L,SMK,18,Teknik Informatika (S1),2015,3.35,3.41,3.37,3.45,3.65,24,22,25,24,23,Tepat Waktu
+1506046,L,SMA,18,Teknik Informatika (S1),2015,3.9,3.94,3.63,3.75,3.95,24,22,25,25,29,Tepat Waktu
+1506047,L,SMK,19,Teknik Informatika (S1),2015,3.25,3,2.47,3.25,3.15,24,22,22,22,26,Tepat Waktu
+1506048,L,SMK,17,Teknik Informatika (S1),2015,3.2,2.94,2.68,3.05,3.17,24,23,25,25,23,Tepat Waktu
+1506049,L,SMK,18,Teknik Informatika (S1),2015,3.5,3.29,2.84,3.4,3.7,24,22,25,22,25,Tepat Waktu
+1506050,L,SMK,18,Teknik Informatika (S1),2015,3.25,3.18,2.63,3.3,3.6,24,22,22,22,26,Tepat Waktu
+1506052,L,SMA,18,Teknik Informatika (S1),2015,3.85,3.18,3.05,3.3,3.75,24,23,25,25,25,Tepat Waktu
+1506053,L,SMK,20,Teknik Informatika (S1),2015,3.1,2.94,2.47,3.05,3.05,24,23,22,21,26,Tepat Waktu
+1506054,L,SMK,20,Teknik Informatika (S1),2015,3.8,3.53,3.89,3.85,3.8,24,22,22,22,26,Tepat Waktu
+1506055,L,SMK,19,Teknik Informatika (S1),2015,3.75,3.82,3.79,3.75,3.95,24,23,25,25,25,Tepat Waktu
+1506056,L,SMK,19,Teknik Informatika (S1),2015,3.7,3.41,3.11,3,3.65,24,23,25,25,29,Tepat Waktu
+1506058,L,SMK,20,Teknik Informatika (S1),2015,3.65,3.76,3.74,3.7,3.8,24,22,22,24,26,Tepat Waktu
+1506059,L,SMK,19,Teknik Informatika (S1),2015,3.8,3.71,3.37,3.6,3.95,24,22,25,25,29,Tepat Waktu
+1506062,L,SMK,17,Teknik Informatika (S1),2015,3.2,3.12,2.68,2.9,3.2,24,22,22,21,26,Tepat Waktu
+1506063,L,MA,20,Teknik Informatika (S1),2015,3.45,3.65,3.16,3.4,3.75,24,22,22,22,26,Tepat Waktu
+1506064,L,SMK,18,Teknik Informatika (S1),2015,3.55,3.41,2.95,3.45,3.8,24,22,22,22,28,Tepat Waktu
+1506065,P,SMK,19,Teknik Informatika (S1),2015,3.7,3.53,3.58,3.15,3.8,24,22,22,22,26,Tepat Waktu
+1506066,L,SMA,17,Teknik Informatika (S1),2015,3.4,3.18,2.58,3.25,3.2,24,22,22,22,26,Tepat Waktu
+1506068,L,SMK,18,Teknik Informatika (S1),2015,3.25,2.65,2.79,3.15,3.57,24,22,22,22,26,Tepat Waktu
+1506070,L,SMK,18,Teknik Informatika (S1),2015,3.3,3.12,3.16,3.1,3.45,24,22,22,22,29,Tepat Waktu
+1506071,P,SMK,17,Teknik Informatika (S1),2015,3.85,3.65,3.16,3.65,3.5,24,23,25,25,25,Tepat Waktu
+1506073,L,SMK,21,Teknik Informatika (S1),2015,3.7,3.88,3.89,3.85,3.95,24,22,22,24,26,Tepat Waktu
+1506074,L,SMA,21,Teknik Informatika (S1),2015,3.8,3.71,3.47,3.75,3.95,24,22,22,22,26,Tepat Waktu
+1506075,P,SMK,18,Teknik Informatika (S1),2015,3.8,3.47,3.11,3.8,3.35,24,22,24,22,27,Tepat Waktu
+1506076,L,,18,Teknik Informatika (S1),2015,3.15,3.24,3.32,3.7,3.5,24,22,22,22,27,Tepat Waktu
+1506078,L,SMA,19,Teknik Informatika (S1),2015,3.35,3.24,3.16,3.7,3.35,24,22,22,22,27,Tepat Waktu
+1506080,L,SMA,18,Teknik Informatika (S1),2015,2.95,2.41,2.47,2.95,2.39,24,23,22,21,23,Tepat Waktu
+1506082,P,SMK,21,Teknik Informatika (S1),2015,3.75,3.35,2.89,3.6,3.65,24,22,24,24,27,Tepat Waktu
+1506083,L,SMK,18,Teknik Informatika (S1),2015,3.2,3.06,2.84,3.3,3.2,24,22,22,22,27,Tepat Waktu
+1506085,L,SMA,18,Teknik Informatika (S1),2015,4,3.76,4,4,3.95,24,22,22,22,26,Tepat Waktu
+1506087,L,SMK,18,Teknik Informatika (S1),2015,3.6,3.47,3.42,3.65,3.5,24,22,22,22,26,Tepat Waktu
+1506088,P,SMK,18,Teknik Informatika (S1),2015,4,3.94,3.53,3.9,3.8,24,22,22,24,29,Tepat Waktu
+1506089,L,,19,Teknik Informatika (S1),2015,3.2,2.65,2.74,3.15,3.13,24,22,22,22,23,Tidak Tepat Waktu
+1506091,L,Paket C,22,Teknik Informatika (S1),2015,3.45,3.53,3.16,3.45,3.65,24,22,22,22,29,Tepat Waktu
+1506092,P,SKB,18,Teknik Informatika (S1),2015,3.35,3.35,3.05,3.35,3.45,24,22,22,22,26,Tepat Waktu
+1506093,L,MA,19,Teknik Informatika (S1),2015,3.05,3.18,2.53,2.85,3.13,24,23,22,21,26,Tepat Waktu
+1506096,L,SMK,18,Teknik Informatika (S1),2015,3.3,3.06,3.11,3.35,3.2,24,22,22,22,26,Tepat Waktu
+1506097,L,SMK,19,Teknik Informatika (S1),2015,3.35,2.94,2.79,3.05,3.7,24,22,22,22,27,Tepat Waktu
+1506104,L,MA,21,Teknik Informatika (S1),2015,3.75,3.35,3.32,3.15,3.8,24,22,22,22,26,Tepat Waktu
+1506105,L,SMA,18,Teknik Informatika (S1),2015,3.45,3.35,3.21,3.75,3.5,24,22,25,22,25,Tepat Waktu
+1506106,L,SMK,18,Teknik Informatika (S1),2015,3.75,3.59,3.47,3.6,3.85,24,22,22,22,29,Tepat Waktu
+1506115,P,SMK,19,Teknik Informatika (S1),2015,3.4,3.18,2.89,2.95,3.3,24,22,22,22,29,Tidak Tepat Waktu
+1506116,L,SMA,19,Teknik Informatika (S1),2015,3.3,3,2.79,3.2,3.35,24,22,25,22,25,Tepat Waktu
+1506117,L,MA,18,Teknik Informatika (S1),2015,3,3.41,2.47,3.3,3.35,24,22,22,22,26,Tepat Waktu
+1506118,L,SMA,18,Teknik Informatika (S1),2015,4,3.88,3.37,3.75,3.65,24,22,22,24,26,Tepat Waktu
+1506119,L,SMA,18,Teknik Informatika (S1),2015,3.25,3.41,2.74,3.55,3.7,24,22,22,22,26,Tepat Waktu
+1506121,L,SMA,30,Teknik Informatika (S1),2015,3.14,3.43,2.95,3.05,3.5,17,24,14,24,19,Tepat Waktu
+1506123,L,SMK,20,Teknik Informatika (S1),2015,3.35,3.12,3.37,3.25,3.45,27,27,30,28,10,Tepat Waktu
+1506127,L,,22,Teknik Informatika (S1),2015,3.38,3.26,3.52,3.57,3.67,23,26,22,6,0,Tepat Waktu
+1506129,L,SMA,23,Teknik Informatika (S1),2015,2.81,2.78,2.86,3.48,2.78,19,20,0,10,0,Tepat Waktu
+1506130,L,,19,Teknik Informatika (S1),2015,3.55,3.24,3.26,3.4,3.65,24,22,22,22,29,Tepat Waktu
+1506131,L,SMA,25,Teknik Informatika (S1),2015,2.9,2.35,2.89,2.8,3.55,24,23,22,21,27,Tepat Waktu
+1506139,P,,24,Teknik Informatika (S1),2015,3.48,3.74,3.71,3.71,3.78,24,26,24,6,0,Tepat Waktu
+1506140,L,,26,Teknik Informatika (S1),2015,2.81,2.87,2.71,2.67,2.5,6,6,6,0,0,Tepat Waktu
+1506144,L,,31,Teknik Informatika (S1),2015,3.71,3.7,3.67,3.33,3.89,12,20,14,9,0,Tepat Waktu
+1506145,L,,25,Teknik Informatika (S1),2015,2.86,3.26,3,3.1,2.67,12,20,17,16,6,Tepat Waktu
+1506146,L,,20,Teknik Informatika (S1),2015,3.43,3.65,3.52,3.19,3.28,21,24,6,0,0,Tepat Waktu
+1506148,L,,21,Teknik Informatika (S1),2015,2.86,2.87,3.43,3.14,3.17,21,24,13,0,0,Tepat Waktu
+1506149,L,,21,Teknik Informatika (S1),2015,3,2.57,3.33,2.81,3.17,21,24,15,0,0,Tepat Waktu
+1506150,L,,20,Teknik Informatika (S1),2015,2.95,2.43,3.14,2.86,3.17,21,24,15,0,0,Tepat Waktu
+1506151,L,,21,Teknik Informatika (S1),2015,2.19,2.57,2.86,2.81,3,21,24,11,0,0,Tepat Waktu
+1506152,L,,20,Teknik Informatika (S1),2015,3.05,2.88,2.74,3.15,3.4,23,20,25,22,5,Tepat Waktu
+1506154,L,,21,Teknik Informatika (S1),2015,2.75,2.88,2.95,3.05,2.9,23,20,25,22,5,Tepat Waktu
+1506155,L,,19,Teknik Informatika (S1),2015,3.2,3.06,2.74,3.15,2.75,25,24,16,23,11,Tepat Waktu
+1506157,L,,19,Teknik Informatika (S1),2015,3.15,2.88,3.42,3.55,3.45,28,20,21,24,9,Tepat Waktu
+1506158,L,,19,Teknik Informatika (S1),2015,2.9,3,2.84,3.35,3.1,28,24,21,20,6,Tepat Waktu
+1506159,L,,18,Teknik Informatika (S1),2015,3.15,3.12,3.16,3.6,3.45,27,24,22,20,6,Tepat Waktu
+1506162,L,SMK,18,Teknik Informatika (S1),2015,3.15,3.35,3.21,3.05,3.25,26,21,23,27,20,Tepat Waktu
+1506165,L,,19,Teknik Informatika (S1),2015,3.05,3,3.05,3.1,3.3,26,21,24,27,19,Tepat Waktu
+1506166,L,,18,Teknik Informatika (S1),2015,2.9,2.88,3.26,2.85,3.25,26,21,21,27,22,Tepat Waktu
+1506167,L,SMK,21,Teknik Informatika (S1),2015,3,2.82,3.11,3.25,3.5,26,23,22,27,22,Tepat Waktu
+1506169,L,,28,Teknik Informatika (S1),2015,3.25,3.76,3.05,3.15,2.9,30,27,21,17,6,Tepat Waktu
+1506171,L,,22,Teknik Informatika (S1),2015,2.71,2.74,3,2.48,3.11,22,21,8,0,0,Tepat Waktu
+1606059,L,SMK,30,Teknik Informatika (S1),2016,3.24,2.9,2.9,2.71,3,2,6,0,0,0,Tepat Waktu
+1606094,L,SMK,25,Teknik Informatika (S1),2016,2.8,2.53,2.26,2.7,2.65,29,21,3,4,15,Tepat Waktu
+1606116,L,SMA,23,Teknik Informatika (S1),2016,2.7,3.06,3.05,3.05,2.9,37,24,15,22,14,Tepat Waktu
+1706101,L,SMK,23,Teknik Informatika (S1),2017,3.3,3.29,2.89,3.2,3.25,26,25,15,18,0,Tepat Waktu
+1706115,L,SMA,27,Teknik Informatika (S1),2017,2.7,2.94,2.84,2.65,3.05,26,6,6,0,0,Tepat Waktu
